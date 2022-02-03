@@ -11,3 +11,16 @@ The zip of SVG files is simply a compressed copy of the [svg folder from Twemoji
 Due to the consistent flat style and clean code of Twemoji, I didn't have to modify any images to make them work with nanoemoji.
 
 Please note that this font project is not officially affliated with the Twemoji project.
+
+
+---
+
+## Other COLR builds of Twemoji
+
+There are actually two other builds of a Twemoji COLRv0 font that I know of.
+
+The first can be found in [Google's experimental colr font repo](https://github.com/googlefonts/color-fonts). The main branch of the repo only has a COLRv1 version of the font, and COLRv1 currently lacks wide support. There is [a branch with a COLRv0 Twemoji font](https://github.com/googlefonts/color-fonts/tree/twemoji-colr_0/fonts), though it isn't completely up to date. The font I built here should be functionally very similar to their 'twemoji-glyf_colr_0.ttf', as it was built using the same [nanoemoji](https://github.com/googlefonts/nanoemoji) tool (albiet a different version of the tool.)
+
+The second can be found in Mozilla's [twemoji-colr](https://github.com/mozilla/twemoji-colr) project, and is built using a javascript plugin called Grunt. In most browsers, I wasn't able to notice any differences between the two generated fonts, but on MacOS, there are noticeable bugs. Of the two the Grunt version has the worse issues, completely failing to render in Firefox or Chrome on MacOS. 
+
+
