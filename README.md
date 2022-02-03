@@ -6,7 +6,7 @@ These color fonts will work on nearly any browser.
 
 ## How do I get the fonts?
 
-Take a look in the 'font' folder. 
+Take a look in the 'fonts' folder. 
 
 TODO
 
