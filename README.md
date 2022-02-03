@@ -30,5 +30,16 @@ The script should then start running. If successful, a build folder will be crae
 
 ## Information on the emoji sets:
 
+Further information can be found in the README within each zip file.
+
+### EmojiTwo
+
+The svg files within src-emojitwo come from the EmojiTwo project.
+
+> Emoji artwork is provided by [Emojitwo](https://emojitwo.github.io/), 
+> originally released as [Emojione 2.2](https://www.emojione.com) by [Ranks.com](http://www.ranks.com)
+> with contributions from the Emojitwo community
+> and is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
 
 
