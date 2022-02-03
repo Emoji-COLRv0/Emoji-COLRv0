@@ -1,5 +1,5 @@
 The SVG graphics in this folder come from the [Twemoji project by Twitter](https://github.com/twitter/twemoji), and are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-This means that you can freely reuse these graphics as long as you proper credit to the Twemoji Project
+This means that you can freely reuse these graphics as long as you properly credit to the Twemoji Project
 
 Twemoji in particular is fairly lax about what constitutes proper attribution, stating in the project's README that: 
 
