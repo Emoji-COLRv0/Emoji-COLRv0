@@ -1,7 +1,8 @@
+WIP
+
 # Emoji-COLRv0
 COLRv0 fonts generated from several open-source emoji sets.
 
-These color fonts will work on nearly any browser.
 
 
 ## How do I get the fonts?
