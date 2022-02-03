@@ -6,7 +6,10 @@ These color fonts will work on nearly any browser.
 
 ## How do I get the fonts?
 
+Take a look in the 'font' folder. 
+
 TODO
+
 
 ## How do I build the fonts?
 
@@ -37,9 +40,21 @@ Further information can be found in the README within each zip file.
 The svg files within src-emojitwo come from the EmojiTwo project.
 
 > Emoji artwork is provided by [Emojitwo](https://emojitwo.github.io/), 
-> originally released as [Emojione 2.2](https://www.emojione.com) by [Ranks.com](http://www.ranks.com)
+> originally released as [Emojione 2.2](https://www.emojione.com) by ~~[Ranks.com](http://www.ranks.com)~~ [Joypixels](https://blog.joypixels.com/emojione-is-now-joypixels/)
 > with contributions from the Emojitwo community
 > and is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+The font file named 'EmojiTwoCOLRv0.ttf' is built using these graphics.
+Please credit both Joypixels and the EmojiTwo community if you use this font elsewhere.
+
+
+### Twemoji
+
+The svg files within src-twemoji come from the [Twitter Emoji](https://github.com/twitter/twemoji) project, 
+and are licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+The font file named 'TwemojiCOLRv0.ttf' is built using these graphics.
+Please credit the Twemoji project if you use this font elsewhere.
 
 
 
