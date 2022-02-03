@@ -22,7 +22,7 @@ On MacOS or Linux:
 6. Unzip the .zip file cooresponding to the font you want to build. Navigate into that folder. When you run `ls`, you should see a folder called "svg" and a file called "config.toml".
 7. Run nanoemoji with `nanoemoji --config 'config.toml' $(find svg -name 'emoji_u270d*.svg')`
 
-The script should then start running. If successful, a build folder will be craeted, and the font file will be inside it.
+The script should then start running. It will take a while to complete. If successful, a build folder will be created, and the font file will be inside it.
 
 
 
