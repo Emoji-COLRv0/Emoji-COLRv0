@@ -34,7 +34,7 @@ The script should then start running. It will take a while to complete. If succe
 
 ## Information on the emoji sets:
 
-Further information can be found in the README within each zip file.
+Further information can be found in the README within each folder.
 
 ### EmojiTwo
 
