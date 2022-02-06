@@ -1,7 +1,7 @@
-WIP
-
 # Emoji-COLRv0
-COLRv0 fonts generated from several open-source emoji sets.
+COLRv0 fonts generated from several open-source emoji sets. This repo currently contains fonts generated from the Openmoji, Twemoji, and EmojiTwo sets of emoji graphics.
+
+COLRv0 fonts significantly smaller than SVGinOT format color fonts, and are support by all modern browsers. 
 
 
 
@@ -9,7 +9,6 @@ COLRv0 fonts generated from several open-source emoji sets.
 
 Take a look in the 'fonts' folder. 
 
-TODO
 
 
 ## How do I build the fonts?
