@@ -45,6 +45,8 @@ For more information about the images and fonts used, please refer to [the READM
 
 
 
+
+
 ### Smileys & Emotion
 
 #### face-smiling
@@ -267,7 +269,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F573 FE0F</small><br>hole<br>&#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | 
 | <small>1F4A3</small><br>bomb<br>&#x1F4A3; | &#x1F4A3; | &#x1F4A3; | &#x1F4A3; | 
 | <small>1F4AC</small><br>speech balloon<br>&#x1F4AC; | &#x1F4AC; | &#x1F4AC; | &#x1F4AC; | 
-| <small>1F441 FE0F 200D 1F5E8 FE0F</small><br>eye in speech bubble<br>&#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; |  | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | 
+| <small>1F441 FE0F 200D 1F5E8 FE0F</small><br>eye in speech bubble<br>&#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | 
 | <small>1F5E8 FE0F</small><br>left speech bubble<br>&#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | 
 | <small>1F5EF FE0F</small><br>right anger bubble<br>&#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | 
 | <small>1F4AD</small><br>thought balloon<br>&#x1F4AD; | &#x1F4AD; | &#x1F4AD; | &#x1F4AD; | 
@@ -2150,28 +2152,28 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F46C 1F3FF</small><br>men holding hands: dark skin tone<br>&#x1F46C;&#x1F3FF; | &#x1F46C;&#x1F3FF; | &#x1F46C;&#x1F3FF; | &#x1F46C;&#x1F3FF; | 
 | <small>1F48F</small><br>kiss<br>&#x1F48F; | &#x1F48F; | &#x1F48F; | &#x1F48F; | 
 | <small>1F469 200D 2764 FE0F 200D 1F48B 200D 1F468</small><br>kiss: woman, man<br>&#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; |  | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | 
-| <small>1F468 200D 2764 FE0F 200D 1F48B 200D 1F468</small><br>kiss: man, man<br>&#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; |  | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | 
-| <small>1F469 200D 2764 FE0F 200D 1F48B 200D 1F469</small><br>kiss: woman, woman<br>&#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; |  | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | 
+| <small>1F468 200D 2764 FE0F 200D 1F48B 200D 1F468</small><br>kiss: man, man<br>&#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | 
+| <small>1F469 200D 2764 FE0F 200D 1F48B 200D 1F469</small><br>kiss: woman, woman<br>&#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | 
 | <small>1F491</small><br>couple with heart<br>&#x1F491; | &#x1F491; | &#x1F491; | &#x1F491; | 
 | <small>1F469 200D 2764 FE0F 200D 1F468</small><br>couple with heart: woman, man<br>&#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; |  | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | 
-| <small>1F468 200D 2764 FE0F 200D 1F468</small><br>couple with heart: man, man<br>&#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; |  | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | 
-| <small>1F469 200D 2764 FE0F 200D 1F469</small><br>couple with heart: woman, woman<br>&#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; |  | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | 
+| <small>1F468 200D 2764 FE0F 200D 1F468</small><br>couple with heart: man, man<br>&#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | 
+| <small>1F469 200D 2764 FE0F 200D 1F469</small><br>couple with heart: woman, woman<br>&#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | 
 | <small>1F46A</small><br>family<br>&#x1F46A; | &#x1F46A; | &#x1F46A; | &#x1F46A; | 
-| <small>1F468 200D 1F469 200D 1F466</small><br>family: man, woman, boy<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; |  | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | 
-| <small>1F468 200D 1F469 200D 1F467</small><br>family: man, woman, girl<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; |  | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | 
-| <small>1F468 200D 1F469 200D 1F467 200D 1F466</small><br>family: man, woman, girl, boy<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; |  | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
-| <small>1F468 200D 1F469 200D 1F466 200D 1F466</small><br>family: man, woman, boy, boy<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; |  | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
-| <small>1F468 200D 1F469 200D 1F467 200D 1F467</small><br>family: man, woman, girl, girl<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; |  | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
-| <small>1F468 200D 1F468 200D 1F466</small><br>family: man, man, boy<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; |  | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | 
-| <small>1F468 200D 1F468 200D 1F467</small><br>family: man, man, girl<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; |  | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | 
-| <small>1F468 200D 1F468 200D 1F467 200D 1F466</small><br>family: man, man, girl, boy<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; |  | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
-| <small>1F468 200D 1F468 200D 1F466 200D 1F466</small><br>family: man, man, boy, boy<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; |  | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
-| <small>1F468 200D 1F468 200D 1F467 200D 1F467</small><br>family: man, man, girl, girl<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; |  | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
-| <small>1F469 200D 1F469 200D 1F466</small><br>family: woman, woman, boy<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; |  | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | 
-| <small>1F469 200D 1F469 200D 1F467</small><br>family: woman, woman, girl<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; |  | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | 
-| <small>1F469 200D 1F469 200D 1F467 200D 1F466</small><br>family: woman, woman, girl, boy<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; |  | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
-| <small>1F469 200D 1F469 200D 1F466 200D 1F466</small><br>family: woman, woman, boy, boy<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; |  | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
-| <small>1F469 200D 1F469 200D 1F467 200D 1F467</small><br>family: woman, woman, girl, girl<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; |  | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
+| <small>1F468 200D 1F469 200D 1F466</small><br>family: man, woman, boy<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F469 200D 1F467</small><br>family: man, woman, girl<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | 
+| <small>1F468 200D 1F469 200D 1F467 200D 1F466</small><br>family: man, woman, girl, boy<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F469 200D 1F466 200D 1F466</small><br>family: man, woman, boy, boy<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F469 200D 1F467 200D 1F467</small><br>family: man, woman, girl, girl<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
+| <small>1F468 200D 1F468 200D 1F466</small><br>family: man, man, boy<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F468 200D 1F467</small><br>family: man, man, girl<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | 
+| <small>1F468 200D 1F468 200D 1F467 200D 1F466</small><br>family: man, man, girl, boy<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F468 200D 1F466 200D 1F466</small><br>family: man, man, boy, boy<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F468 200D 1F467 200D 1F467</small><br>family: man, man, girl, girl<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
+| <small>1F469 200D 1F469 200D 1F466</small><br>family: woman, woman, boy<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | 
+| <small>1F469 200D 1F469 200D 1F467</small><br>family: woman, woman, girl<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | 
+| <small>1F469 200D 1F469 200D 1F467 200D 1F466</small><br>family: woman, woman, girl, boy<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
+| <small>1F469 200D 1F469 200D 1F466 200D 1F466</small><br>family: woman, woman, boy, boy<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
+| <small>1F469 200D 1F469 200D 1F467 200D 1F467</small><br>family: woman, woman, girl, girl<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
 | <small>1F468 200D 1F466</small><br>family: man, boy<br>&#x1F468;&#x200D;&#x1F466; |  | &#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466; | 
 | <small>1F468 200D 1F466 200D 1F466</small><br>family: man, boy, boy<br>&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; |  | &#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
 | <small>1F468 200D 1F467</small><br>family: man, girl<br>&#x1F468;&#x200D;&#x1F467; |  | &#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F467; | 
@@ -3581,9 +3583,9 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F38C</small><br>crossed flags<br>&#x1F38C; | &#x1F38C; | &#x1F38C; | &#x1F38C; | 
 | <small>1F3F4</small><br>black flag<br>&#x1F3F4; | &#x1F3F4; | &#x1F3F4; | &#x1F3F4; | 
 | <small>1F3F3 FE0F</small><br>white flag<br>&#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | 
-| <small>1F3F3 FE0F 200D 1F308</small><br>rainbow flag<br>&#x1F3F3;&#xFE0F;&#x200D;&#x1F308; |  | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | 
+| <small>1F3F3 FE0F 200D 1F308</small><br>rainbow flag<br>&#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | 
 | <small>1F3F3 FE0F 200D 26A7 FE0F</small><br>transgender flag<br>&#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F; |  | &#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F; | &#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F; | 
-| <small>1F3F4 200D 2620 FE0F</small><br>pirate flag<br>&#x1F3F4;&#x200D;&#x2620;&#xFE0F; |  | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | 
+| <small>1F3F4 200D 2620 FE0F</small><br>pirate flag<br>&#x1F3F4;&#x200D;&#x2620;&#xFE0F; | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | 
 
 #### country-flag
 
@@ -3855,4 +3857,3 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F3F4 E0067 E0062 E0065 E006E E0067 E007F</small><br>flag: England<br>&#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | 
 | <small>1F3F4 E0067 E0062 E0073 E0063 E0074 E007F</small><br>flag: Scotland<br>&#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | 
 | <small>1F3F4 E0067 E0062 E0077 E006C E0073 E007F</small><br>flag: Wales<br>&#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | 
-
