@@ -3,6 +3,7 @@ COLRv0 fonts generated from several open-source emoji sets. This repo currently 
 
 COLRv0 fonts significantly smaller than SVGinOT format color fonts, and are support by all modern browsers. 
 
+To preview the fonts in use, take a look at [the table on this page](https://emoji-colrv0.github.io/Emoji-COLRv0/emojitable).
 
 
 ## How do I get the fonts?
