@@ -9,7 +9,7 @@ To preview the fonts in use, take a look at [the table on this page](https://emo
 
 ## How do I get the fonts?
 
-Take a look in the 'fonts' folder. 
+Take a look in the 'fonts' folder of this repo, or at the releases. 
 
 These files can be downloaded and installed, or they can be hosted on a web server and loaded via css.
 No special frameworks required.
