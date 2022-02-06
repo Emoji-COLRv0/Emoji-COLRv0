@@ -43,6 +43,8 @@ For more information about the images and fonts used, please refer to [the READM
 
 
 
+
+
 ### Smileys & Emotion
 
 #### face-smiling
@@ -72,7 +74,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F929</small><br>star-struck<br>&#x1F929; |  | &#x1F929; | &#x1F929; | 
 | <small>1F618</small><br>face blowing a kiss<br>&#x1F618; | &#x1F618; | &#x1F618; | &#x1F618; | 
 | <small>1F617</small><br>kissing face<br>&#x1F617; | &#x1F617; | &#x1F617; | &#x1F617; | 
-| <small>263A FE0F</small><br>smiling face<br>&#x263A;&#xFE0F; |  | &#x263A;&#xFE0F; | &#x263A;&#xFE0F; | 
+| <small>263A FE0F</small><br>smiling face<br>&#x263A;&#xFE0F; | &#x263A;&#xFE0F; | &#x263A;&#xFE0F; | &#x263A;&#xFE0F; | 
 | <small>1F61A</small><br>kissing face with closed eyes<br>&#x1F61A; | &#x1F61A; | &#x1F61A; | &#x1F61A; | 
 | <small>1F619</small><br>kissing face with smiling eyes<br>&#x1F619; | &#x1F619; | &#x1F619; | &#x1F619; | 
 | <small>1F972</small><br>smiling face with tear<br>&#x1F972; |  | &#x1F972; | &#x1F972; | 
@@ -161,7 +163,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F615</small><br>confused face<br>&#x1F615; | &#x1F615; | &#x1F615; | &#x1F615; | 
 | <small>1F61F</small><br>worried face<br>&#x1F61F; | &#x1F61F; | &#x1F61F; | &#x1F61F; | 
 | <small>1F641</small><br>slightly frowning face<br>&#x1F641; | &#x1F641; | &#x1F641; | &#x1F641; | 
-| <small>2639 FE0F</small><br>frowning face<br>&#x2639;&#xFE0F; |  | &#x2639;&#xFE0F; | &#x2639;&#xFE0F; | 
+| <small>2639 FE0F</small><br>frowning face<br>&#x2639;&#xFE0F; | &#x2639;&#xFE0F; | &#x2639;&#xFE0F; | &#x2639;&#xFE0F; | 
 | <small>1F62E</small><br>face with open mouth<br>&#x1F62E; | &#x1F62E; | &#x1F62E; | &#x1F62E; | 
 | <small>1F62F</small><br>hushed face<br>&#x1F62F; | &#x1F62F; | &#x1F62F; | &#x1F62F; | 
 | <small>1F632</small><br>astonished face<br>&#x1F632; | &#x1F632; | &#x1F632; | &#x1F632; | 
@@ -194,7 +196,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F608</small><br>smiling face with horns<br>&#x1F608; | &#x1F608; | &#x1F608; | &#x1F608; | 
 | <small>1F47F</small><br>angry face with horns<br>&#x1F47F; | &#x1F47F; | &#x1F47F; | &#x1F47F; | 
 | <small>1F480</small><br>skull<br>&#x1F480; | &#x1F480; | &#x1F480; | &#x1F480; | 
-| <small>2620 FE0F</small><br>skull and crossbones<br>&#x2620;&#xFE0F; |  | &#x2620;&#xFE0F; | &#x2620;&#xFE0F; | 
+| <small>2620 FE0F</small><br>skull and crossbones<br>&#x2620;&#xFE0F; | &#x2620;&#xFE0F; | &#x2620;&#xFE0F; | &#x2620;&#xFE0F; | 
 
 #### face-costume
 
@@ -245,9 +247,9 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F49E</small><br>revolving hearts<br>&#x1F49E; | &#x1F49E; | &#x1F49E; | &#x1F49E; | 
 | <small>1F495</small><br>two hearts<br>&#x1F495; | &#x1F495; | &#x1F495; | &#x1F495; | 
 | <small>1F49F</small><br>heart decoration<br>&#x1F49F; | &#x1F49F; | &#x1F49F; | &#x1F49F; | 
-| <small>2763 FE0F</small><br>heart exclamation<br>&#x2763;&#xFE0F; |  | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | 
+| <small>2763 FE0F</small><br>heart exclamation<br>&#x2763;&#xFE0F; | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | 
 | <small>1F494</small><br>broken heart<br>&#x1F494; | &#x1F494; | &#x1F494; | &#x1F494; | 
-| <small>2764 FE0F</small><br>red heart<br>&#x2764;&#xFE0F; |  | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | 
+| <small>2764 FE0F</small><br>red heart<br>&#x2764;&#xFE0F; | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | 
 | <small>1F9E1</small><br>orange heart<br>&#x1F9E1; |  | &#x1F9E1; | &#x1F9E1; | 
 | <small>1F49B</small><br>yellow heart<br>&#x1F49B; | &#x1F49B; | &#x1F49B; | &#x1F49B; | 
 | <small>1F49A</small><br>green heart<br>&#x1F49A; | &#x1F49A; | &#x1F49A; | &#x1F49A; | 
@@ -262,12 +264,12 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F4AB</small><br>dizzy<br>&#x1F4AB; | &#x1F4AB; | &#x1F4AB; | &#x1F4AB; | 
 | <small>1F4A6</small><br>sweat droplets<br>&#x1F4A6; | &#x1F4A6; | &#x1F4A6; | &#x1F4A6; | 
 | <small>1F4A8</small><br>dashing away<br>&#x1F4A8; | &#x1F4A8; | &#x1F4A8; | &#x1F4A8; | 
-| <small>1F573 FE0F</small><br>hole<br>&#x1F573;&#xFE0F; |  | &#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | 
+| <small>1F573 FE0F</small><br>hole<br>&#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | 
 | <small>1F4A3</small><br>bomb<br>&#x1F4A3; | &#x1F4A3; | &#x1F4A3; | &#x1F4A3; | 
 | <small>1F4AC</small><br>speech balloon<br>&#x1F4AC; | &#x1F4AC; | &#x1F4AC; | &#x1F4AC; | 
 | <small>1F441 FE0F 200D 1F5E8 FE0F</small><br>eye in speech bubble<br>&#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; |  | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | 
-| <small>1F5E8 FE0F</small><br>left speech bubble<br>&#x1F5E8;&#xFE0F; |  | &#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | 
-| <small>1F5EF FE0F</small><br>right anger bubble<br>&#x1F5EF;&#xFE0F; |  | &#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | 
+| <small>1F5E8 FE0F</small><br>left speech bubble<br>&#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | 
+| <small>1F5EF FE0F</small><br>right anger bubble<br>&#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | 
 | <small>1F4AD</small><br>thought balloon<br>&#x1F4AD; | &#x1F4AD; | &#x1F4AD; | &#x1F4AD; | 
 | <small>1F4A4</small><br>zzz<br>&#x1F4A4; | &#x1F4A4; | &#x1F4A4; | &#x1F4A4; | 
 
@@ -290,7 +292,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F91A 1F3FD</small><br>raised back of hand: medium skin tone<br>&#x1F91A;&#x1F3FD; | &#x1F91A;&#x1F3FD; | &#x1F91A;&#x1F3FD; | &#x1F91A;&#x1F3FD; | 
 | <small>1F91A 1F3FE</small><br>raised back of hand: medium-dark skin tone<br>&#x1F91A;&#x1F3FE; | &#x1F91A;&#x1F3FE; | &#x1F91A;&#x1F3FE; | &#x1F91A;&#x1F3FE; | 
 | <small>1F91A 1F3FF</small><br>raised back of hand: dark skin tone<br>&#x1F91A;&#x1F3FF; | &#x1F91A;&#x1F3FF; | &#x1F91A;&#x1F3FF; | &#x1F91A;&#x1F3FF; | 
-| <small>1F590 FE0F</small><br>hand with fingers splayed<br>&#x1F590;&#xFE0F; |  | &#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | 
+| <small>1F590 FE0F</small><br>hand with fingers splayed<br>&#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | 
 | <small>1F590 1F3FB</small><br>hand with fingers splayed: light skin tone<br>&#x1F590;&#x1F3FB; | &#x1F590;&#x1F3FB; | &#x1F590;&#x1F3FB; | &#x1F590;&#x1F3FB; | 
 | <small>1F590 1F3FC</small><br>hand with fingers splayed: medium-light skin tone<br>&#x1F590;&#x1F3FC; | &#x1F590;&#x1F3FC; | &#x1F590;&#x1F3FC; | &#x1F590;&#x1F3FC; | 
 | <small>1F590 1F3FD</small><br>hand with fingers splayed: medium skin tone<br>&#x1F590;&#x1F3FD; | &#x1F590;&#x1F3FD; | &#x1F590;&#x1F3FD; | &#x1F590;&#x1F3FD; | 
@@ -331,7 +333,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F90F 1F3FD</small><br>pinching hand: medium skin tone<br>&#x1F90F;&#x1F3FD; |  | &#x1F90F;&#x1F3FD; | &#x1F90F;&#x1F3FD; | 
 | <small>1F90F 1F3FE</small><br>pinching hand: medium-dark skin tone<br>&#x1F90F;&#x1F3FE; |  | &#x1F90F;&#x1F3FE; | &#x1F90F;&#x1F3FE; | 
 | <small>1F90F 1F3FF</small><br>pinching hand: dark skin tone<br>&#x1F90F;&#x1F3FF; |  | &#x1F90F;&#x1F3FF; | &#x1F90F;&#x1F3FF; | 
-| <small>270C FE0F</small><br>victory hand<br>&#x270C;&#xFE0F; |  | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | 
+| <small>270C FE0F</small><br>victory hand<br>&#x270C;&#xFE0F; | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | 
 | <small>270C 1F3FB</small><br>victory hand: light skin tone<br>&#x270C;&#x1F3FB; | &#x270C;&#x1F3FB; | &#x270C;&#x1F3FB; | &#x270C;&#x1F3FB; | 
 | <small>270C 1F3FC</small><br>victory hand: medium-light skin tone<br>&#x270C;&#x1F3FC; | &#x270C;&#x1F3FC; | &#x270C;&#x1F3FC; | &#x270C;&#x1F3FC; | 
 | <small>270C 1F3FD</small><br>victory hand: medium skin tone<br>&#x270C;&#x1F3FD; | &#x270C;&#x1F3FD; | &#x270C;&#x1F3FD; | &#x270C;&#x1F3FD; | 
@@ -396,7 +398,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F447 1F3FD</small><br>backhand index pointing down: medium skin tone<br>&#x1F447;&#x1F3FD; | &#x1F447;&#x1F3FD; | &#x1F447;&#x1F3FD; | &#x1F447;&#x1F3FD; | 
 | <small>1F447 1F3FE</small><br>backhand index pointing down: medium-dark skin tone<br>&#x1F447;&#x1F3FE; | &#x1F447;&#x1F3FE; | &#x1F447;&#x1F3FE; | &#x1F447;&#x1F3FE; | 
 | <small>1F447 1F3FF</small><br>backhand index pointing down: dark skin tone<br>&#x1F447;&#x1F3FF; | &#x1F447;&#x1F3FF; | &#x1F447;&#x1F3FF; | &#x1F447;&#x1F3FF; | 
-| <small>261D FE0F</small><br>index pointing up<br>&#x261D;&#xFE0F; |  | &#x261D;&#xFE0F; | &#x261D;&#xFE0F; | 
+| <small>261D FE0F</small><br>index pointing up<br>&#x261D;&#xFE0F; | &#x261D;&#xFE0F; | &#x261D;&#xFE0F; | &#x261D;&#xFE0F; | 
 | <small>261D 1F3FB</small><br>index pointing up: light skin tone<br>&#x261D;&#x1F3FB; | &#x261D;&#x1F3FB; | &#x261D;&#x1F3FB; | &#x261D;&#x1F3FB; | 
 | <small>261D 1F3FC</small><br>index pointing up: medium-light skin tone<br>&#x261D;&#x1F3FC; | &#x261D;&#x1F3FC; | &#x261D;&#x1F3FC; | &#x261D;&#x1F3FC; | 
 | <small>261D 1F3FD</small><br>index pointing up: medium skin tone<br>&#x261D;&#x1F3FD; | &#x261D;&#x1F3FD; | &#x261D;&#x1F3FD; | &#x261D;&#x1F3FD; | 
@@ -484,7 +486,7 @@ For more information about the images and fonts used, please refer to [the READM
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>270D FE0F</small><br>writing hand<br>&#x270D;&#xFE0F; |  | &#x270D;&#xFE0F; | &#x270D;&#xFE0F; | 
+| <small>270D FE0F</small><br>writing hand<br>&#x270D;&#xFE0F; | &#x270D;&#xFE0F; | &#x270D;&#xFE0F; | &#x270D;&#xFE0F; | 
 | <small>270D 1F3FB</small><br>writing hand: light skin tone<br>&#x270D;&#x1F3FB; | &#x270D;&#x1F3FB; | &#x270D;&#x1F3FB; | &#x270D;&#x1F3FB; | 
 | <small>270D 1F3FC</small><br>writing hand: medium-light skin tone<br>&#x270D;&#x1F3FC; | &#x270D;&#x1F3FC; | &#x270D;&#x1F3FC; | &#x270D;&#x1F3FC; | 
 | <small>270D 1F3FD</small><br>writing hand: medium skin tone<br>&#x270D;&#x1F3FD; | &#x270D;&#x1F3FD; | &#x270D;&#x1F3FD; | &#x270D;&#x1F3FD; | 
@@ -551,7 +553,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F9B7</small><br>tooth<br>&#x1F9B7; |  | &#x1F9B7; | &#x1F9B7; | 
 | <small>1F9B4</small><br>bone<br>&#x1F9B4; |  | &#x1F9B4; | &#x1F9B4; | 
 | <small>1F440</small><br>eyes<br>&#x1F440; | &#x1F440; | &#x1F440; | &#x1F440; | 
-| <small>1F441 FE0F</small><br>eye<br>&#x1F441;&#xFE0F; |  | &#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | 
+| <small>1F441 FE0F</small><br>eye<br>&#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | 
 | <small>1F445</small><br>tongue<br>&#x1F445; | &#x1F445; | &#x1F445; | &#x1F445; | 
 | <small>1F444</small><br>mouth<br>&#x1F444; | &#x1F444; | &#x1F444; | &#x1F444; | 
 
@@ -1211,7 +1213,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F46E 1F3FD 200D 2640 FE0F</small><br>woman police officer: medium skin tone<br>&#x1F46E;&#x1F3FD;&#x200D;&#x2640;&#xFE0F; |  | &#x1F46E;&#x1F3FD;&#x200D;&#x2640;&#xFE0F; | &#x1F46E;&#x1F3FD;&#x200D;&#x2640;&#xFE0F; | 
 | <small>1F46E 1F3FE 200D 2640 FE0F</small><br>woman police officer: medium-dark skin tone<br>&#x1F46E;&#x1F3FE;&#x200D;&#x2640;&#xFE0F; |  | &#x1F46E;&#x1F3FE;&#x200D;&#x2640;&#xFE0F; | &#x1F46E;&#x1F3FE;&#x200D;&#x2640;&#xFE0F; | 
 | <small>1F46E 1F3FF 200D 2640 FE0F</small><br>woman police officer: dark skin tone<br>&#x1F46E;&#x1F3FF;&#x200D;&#x2640;&#xFE0F; |  | &#x1F46E;&#x1F3FF;&#x200D;&#x2640;&#xFE0F; | &#x1F46E;&#x1F3FF;&#x200D;&#x2640;&#xFE0F; | 
-| <small>1F575 FE0F</small><br>detective<br>&#x1F575;&#xFE0F; |  | &#x1F575;&#xFE0F; | &#x1F575;&#xFE0F; | 
+| <small>1F575 FE0F</small><br>detective<br>&#x1F575;&#xFE0F; | &#x1F575;&#xFE0F; | &#x1F575;&#xFE0F; | &#x1F575;&#xFE0F; | 
 | <small>1F575 1F3FB</small><br>detective: light skin tone<br>&#x1F575;&#x1F3FB; | &#x1F575;&#x1F3FB; | &#x1F575;&#x1F3FB; | &#x1F575;&#x1F3FB; | 
 | <small>1F575 1F3FC</small><br>detective: medium-light skin tone<br>&#x1F575;&#x1F3FC; | &#x1F575;&#x1F3FC; | &#x1F575;&#x1F3FC; | &#x1F575;&#x1F3FC; | 
 | <small>1F575 1F3FD</small><br>detective: medium skin tone<br>&#x1F575;&#x1F3FD; | &#x1F575;&#x1F3FD; | &#x1F575;&#x1F3FD; | &#x1F575;&#x1F3FD; | 
@@ -1719,7 +1721,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F57A 1F3FD</small><br>man dancing: medium skin tone<br>&#x1F57A;&#x1F3FD; | &#x1F57A;&#x1F3FD; | &#x1F57A;&#x1F3FD; | &#x1F57A;&#x1F3FD; | 
 | <small>1F57A 1F3FE</small><br>man dancing: medium-dark skin tone<br>&#x1F57A;&#x1F3FE; | &#x1F57A;&#x1F3FE; | &#x1F57A;&#x1F3FE; | &#x1F57A;&#x1F3FE; | 
 | <small>1F57A 1F3FF</small><br>man dancing: dark skin tone<br>&#x1F57A;&#x1F3FF; | &#x1F57A;&#x1F3FF; | &#x1F57A;&#x1F3FF; | &#x1F57A;&#x1F3FF; | 
-| <small>1F574 FE0F</small><br>person in suit levitating<br>&#x1F574;&#xFE0F; |  | &#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | 
+| <small>1F574 FE0F</small><br>person in suit levitating<br>&#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | 
 | <small>1F574 1F3FB</small><br>person in suit levitating: light skin tone<br>&#x1F574;&#x1F3FB; | &#x1F574;&#x1F3FB; | &#x1F574;&#x1F3FB; | &#x1F574;&#x1F3FB; | 
 | <small>1F574 1F3FC</small><br>person in suit levitating: medium-light skin tone<br>&#x1F574;&#x1F3FC; | &#x1F574;&#x1F3FC; | &#x1F574;&#x1F3FC; | &#x1F574;&#x1F3FC; | 
 | <small>1F574 1F3FD</small><br>person in suit levitating: medium skin tone<br>&#x1F574;&#x1F3FD; | &#x1F574;&#x1F3FD; | &#x1F574;&#x1F3FD; | &#x1F574;&#x1F3FD; | 
@@ -1776,14 +1778,14 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F3C7 1F3FD</small><br>horse racing: medium skin tone<br>&#x1F3C7;&#x1F3FD; | &#x1F3C7;&#x1F3FD; | &#x1F3C7;&#x1F3FD; | &#x1F3C7;&#x1F3FD; | 
 | <small>1F3C7 1F3FE</small><br>horse racing: medium-dark skin tone<br>&#x1F3C7;&#x1F3FE; | &#x1F3C7;&#x1F3FE; | &#x1F3C7;&#x1F3FE; | &#x1F3C7;&#x1F3FE; | 
 | <small>1F3C7 1F3FF</small><br>horse racing: dark skin tone<br>&#x1F3C7;&#x1F3FF; | &#x1F3C7;&#x1F3FF; | &#x1F3C7;&#x1F3FF; | &#x1F3C7;&#x1F3FF; | 
-| <small>26F7 FE0F</small><br>skier<br>&#x26F7;&#xFE0F; |  | &#x26F7;&#xFE0F; | &#x26F7;&#xFE0F; | 
+| <small>26F7 FE0F</small><br>skier<br>&#x26F7;&#xFE0F; | &#x26F7;&#xFE0F; | &#x26F7;&#xFE0F; | &#x26F7;&#xFE0F; | 
 | <small>1F3C2</small><br>snowboarder<br>&#x1F3C2; | &#x1F3C2; | &#x1F3C2; | &#x1F3C2; | 
 | <small>1F3C2 1F3FB</small><br>snowboarder: light skin tone<br>&#x1F3C2;&#x1F3FB; | &#x1F3C2;&#x1F3FB; | &#x1F3C2;&#x1F3FB; | &#x1F3C2;&#x1F3FB; | 
 | <small>1F3C2 1F3FC</small><br>snowboarder: medium-light skin tone<br>&#x1F3C2;&#x1F3FC; | &#x1F3C2;&#x1F3FC; | &#x1F3C2;&#x1F3FC; | &#x1F3C2;&#x1F3FC; | 
 | <small>1F3C2 1F3FD</small><br>snowboarder: medium skin tone<br>&#x1F3C2;&#x1F3FD; | &#x1F3C2;&#x1F3FD; | &#x1F3C2;&#x1F3FD; | &#x1F3C2;&#x1F3FD; | 
 | <small>1F3C2 1F3FE</small><br>snowboarder: medium-dark skin tone<br>&#x1F3C2;&#x1F3FE; | &#x1F3C2;&#x1F3FE; | &#x1F3C2;&#x1F3FE; | &#x1F3C2;&#x1F3FE; | 
 | <small>1F3C2 1F3FF</small><br>snowboarder: dark skin tone<br>&#x1F3C2;&#x1F3FF; | &#x1F3C2;&#x1F3FF; | &#x1F3C2;&#x1F3FF; | &#x1F3C2;&#x1F3FF; | 
-| <small>1F3CC FE0F</small><br>person golfing<br>&#x1F3CC;&#xFE0F; |  | &#x1F3CC;&#xFE0F; | &#x1F3CC;&#xFE0F; | 
+| <small>1F3CC FE0F</small><br>person golfing<br>&#x1F3CC;&#xFE0F; | &#x1F3CC;&#xFE0F; | &#x1F3CC;&#xFE0F; | &#x1F3CC;&#xFE0F; | 
 | <small>1F3CC 1F3FB</small><br>person golfing: light skin tone<br>&#x1F3CC;&#x1F3FB; | &#x1F3CC;&#x1F3FB; | &#x1F3CC;&#x1F3FB; | &#x1F3CC;&#x1F3FB; | 
 | <small>1F3CC 1F3FC</small><br>person golfing: medium-light skin tone<br>&#x1F3CC;&#x1F3FC; | &#x1F3CC;&#x1F3FC; | &#x1F3CC;&#x1F3FC; | &#x1F3CC;&#x1F3FC; | 
 | <small>1F3CC 1F3FD</small><br>person golfing: medium skin tone<br>&#x1F3CC;&#x1F3FD; | &#x1F3CC;&#x1F3FD; | &#x1F3CC;&#x1F3FD; | &#x1F3CC;&#x1F3FD; | 
@@ -1855,7 +1857,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F3CA 1F3FD 200D 2640 FE0F</small><br>woman swimming: medium skin tone<br>&#x1F3CA;&#x1F3FD;&#x200D;&#x2640;&#xFE0F; |  | &#x1F3CA;&#x1F3FD;&#x200D;&#x2640;&#xFE0F; | &#x1F3CA;&#x1F3FD;&#x200D;&#x2640;&#xFE0F; | 
 | <small>1F3CA 1F3FE 200D 2640 FE0F</small><br>woman swimming: medium-dark skin tone<br>&#x1F3CA;&#x1F3FE;&#x200D;&#x2640;&#xFE0F; |  | &#x1F3CA;&#x1F3FE;&#x200D;&#x2640;&#xFE0F; | &#x1F3CA;&#x1F3FE;&#x200D;&#x2640;&#xFE0F; | 
 | <small>1F3CA 1F3FF 200D 2640 FE0F</small><br>woman swimming: dark skin tone<br>&#x1F3CA;&#x1F3FF;&#x200D;&#x2640;&#xFE0F; |  | &#x1F3CA;&#x1F3FF;&#x200D;&#x2640;&#xFE0F; | &#x1F3CA;&#x1F3FF;&#x200D;&#x2640;&#xFE0F; | 
-| <small>26F9 FE0F</small><br>person bouncing ball<br>&#x26F9;&#xFE0F; |  | &#x26F9;&#xFE0F; | &#x26F9;&#xFE0F; | 
+| <small>26F9 FE0F</small><br>person bouncing ball<br>&#x26F9;&#xFE0F; | &#x26F9;&#xFE0F; | &#x26F9;&#xFE0F; | &#x26F9;&#xFE0F; | 
 | <small>26F9 1F3FB</small><br>person bouncing ball: light skin tone<br>&#x26F9;&#x1F3FB; | &#x26F9;&#x1F3FB; | &#x26F9;&#x1F3FB; | &#x26F9;&#x1F3FB; | 
 | <small>26F9 1F3FC</small><br>person bouncing ball: medium-light skin tone<br>&#x26F9;&#x1F3FC; | &#x26F9;&#x1F3FC; | &#x26F9;&#x1F3FC; | &#x26F9;&#x1F3FC; | 
 | <small>26F9 1F3FD</small><br>person bouncing ball: medium skin tone<br>&#x26F9;&#x1F3FD; | &#x26F9;&#x1F3FD; | &#x26F9;&#x1F3FD; | &#x26F9;&#x1F3FD; | 
@@ -1873,7 +1875,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>26F9 1F3FD 200D 2640 FE0F</small><br>woman bouncing ball: medium skin tone<br>&#x26F9;&#x1F3FD;&#x200D;&#x2640;&#xFE0F; |  | &#x26F9;&#x1F3FD;&#x200D;&#x2640;&#xFE0F; | &#x26F9;&#x1F3FD;&#x200D;&#x2640;&#xFE0F; | 
 | <small>26F9 1F3FE 200D 2640 FE0F</small><br>woman bouncing ball: medium-dark skin tone<br>&#x26F9;&#x1F3FE;&#x200D;&#x2640;&#xFE0F; |  | &#x26F9;&#x1F3FE;&#x200D;&#x2640;&#xFE0F; | &#x26F9;&#x1F3FE;&#x200D;&#x2640;&#xFE0F; | 
 | <small>26F9 1F3FF 200D 2640 FE0F</small><br>woman bouncing ball: dark skin tone<br>&#x26F9;&#x1F3FF;&#x200D;&#x2640;&#xFE0F; |  | &#x26F9;&#x1F3FF;&#x200D;&#x2640;&#xFE0F; | &#x26F9;&#x1F3FF;&#x200D;&#x2640;&#xFE0F; | 
-| <small>1F3CB FE0F</small><br>person lifting weights<br>&#x1F3CB;&#xFE0F; |  | &#x1F3CB;&#xFE0F; | &#x1F3CB;&#xFE0F; | 
+| <small>1F3CB FE0F</small><br>person lifting weights<br>&#x1F3CB;&#xFE0F; | &#x1F3CB;&#xFE0F; | &#x1F3CB;&#xFE0F; | &#x1F3CB;&#xFE0F; | 
 | <small>1F3CB 1F3FB</small><br>person lifting weights: light skin tone<br>&#x1F3CB;&#x1F3FB; | &#x1F3CB;&#x1F3FB; | &#x1F3CB;&#x1F3FB; | &#x1F3CB;&#x1F3FB; | 
 | <small>1F3CB 1F3FC</small><br>person lifting weights: medium-light skin tone<br>&#x1F3CB;&#x1F3FC; | &#x1F3CB;&#x1F3FC; | &#x1F3CB;&#x1F3FC; | &#x1F3CB;&#x1F3FC; | 
 | <small>1F3CB 1F3FD</small><br>person lifting weights: medium skin tone<br>&#x1F3CB;&#x1F3FD; | &#x1F3CB;&#x1F3FD; | &#x1F3CB;&#x1F3FD; | &#x1F3CB;&#x1F3FD; | 
@@ -2185,7 +2187,7 @@ For more information about the images and fonts used, please refer to [the READM
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>1F5E3 FE0F</small><br>speaking head<br>&#x1F5E3;&#xFE0F; |  | &#x1F5E3;&#xFE0F; | &#x1F5E3;&#xFE0F; | 
+| <small>1F5E3 FE0F</small><br>speaking head<br>&#x1F5E3;&#xFE0F; | &#x1F5E3;&#xFE0F; | &#x1F5E3;&#xFE0F; | &#x1F5E3;&#xFE0F; | 
 | <small>1F464</small><br>bust in silhouette<br>&#x1F464; | &#x1F464; | &#x1F464; | &#x1F464; | 
 | <small>1F465</small><br>busts in silhouette<br>&#x1F465; | &#x1F465; | &#x1F465; | &#x1F465; | 
 | <small>1FAC2</small><br>people hugging<br>&#x1FAC2; |  | &#x1FAC2; | &#x1FAC2; | 
@@ -2248,7 +2250,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F439</small><br>hamster<br>&#x1F439; | &#x1F439; | &#x1F439; | &#x1F439; | 
 | <small>1F430</small><br>rabbit face<br>&#x1F430; | &#x1F430; | &#x1F430; | &#x1F430; | 
 | <small>1F407</small><br>rabbit<br>&#x1F407; | &#x1F407; | &#x1F407; | &#x1F407; | 
-| <small>1F43F FE0F</small><br>chipmunk<br>&#x1F43F;&#xFE0F; |  | &#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | 
+| <small>1F43F FE0F</small><br>chipmunk<br>&#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | 
 | <small>1F9AB</small><br>beaver<br>&#x1F9AB; |  | &#x1F9AB; | &#x1F9AB; | 
 | <small>1F994</small><br>hedgehog<br>&#x1F994; |  | &#x1F994; | &#x1F994; | 
 | <small>1F987</small><br>bat<br>&#x1F987; | &#x1F987; | &#x1F987; | &#x1F987; | 
@@ -2275,7 +2277,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F425</small><br>front-facing baby chick<br>&#x1F425; | &#x1F425; | &#x1F425; | &#x1F425; | 
 | <small>1F426</small><br>bird<br>&#x1F426; | &#x1F426; | &#x1F426; | &#x1F426; | 
 | <small>1F427</small><br>penguin<br>&#x1F427; | &#x1F427; | &#x1F427; | &#x1F427; | 
-| <small>1F54A FE0F</small><br>dove<br>&#x1F54A;&#xFE0F; |  | &#x1F54A;&#xFE0F; | &#x1F54A;&#xFE0F; | 
+| <small>1F54A FE0F</small><br>dove<br>&#x1F54A;&#xFE0F; | &#x1F54A;&#xFE0F; | &#x1F54A;&#xFE0F; | &#x1F54A;&#xFE0F; | 
 | <small>1F985</small><br>eagle<br>&#x1F985; | &#x1F985; | &#x1F985; | &#x1F985; | 
 | <small>1F986</small><br>duck<br>&#x1F986; | &#x1F986; | &#x1F986; | &#x1F986; | 
 | <small>1F9A2</small><br>swan<br>&#x1F9A2; |  | &#x1F9A2; | &#x1F9A2; | 
@@ -2333,8 +2335,8 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F41E</small><br>lady beetle<br>&#x1F41E; | &#x1F41E; | &#x1F41E; | &#x1F41E; | 
 | <small>1F997</small><br>cricket<br>&#x1F997; |  | &#x1F997; | &#x1F997; | 
 | <small>1FAB3</small><br>cockroach<br>&#x1FAB3; |  | &#x1FAB3; | &#x1FAB3; | 
-| <small>1F577 FE0F</small><br>spider<br>&#x1F577;&#xFE0F; |  | &#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | 
-| <small>1F578 FE0F</small><br>spider web<br>&#x1F578;&#xFE0F; |  | &#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | 
+| <small>1F577 FE0F</small><br>spider<br>&#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | 
+| <small>1F578 FE0F</small><br>spider web<br>&#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | 
 | <small>1F982</small><br>scorpion<br>&#x1F982; | &#x1F982; | &#x1F982; | &#x1F982; | 
 | <small>1F99F</small><br>mosquito<br>&#x1F99F; |  | &#x1F99F; | &#x1F99F; | 
 | <small>1FAB0</small><br>fly<br>&#x1FAB0; |  | &#x1FAB0; | &#x1FAB0; | 
@@ -2348,7 +2350,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F490</small><br>bouquet<br>&#x1F490; | &#x1F490; | &#x1F490; | &#x1F490; | 
 | <small>1F338</small><br>cherry blossom<br>&#x1F338; | &#x1F338; | &#x1F338; | &#x1F338; | 
 | <small>1F4AE</small><br>white flower<br>&#x1F4AE; | &#x1F4AE; | &#x1F4AE; | &#x1F4AE; | 
-| <small>1F3F5 FE0F</small><br>rosette<br>&#x1F3F5;&#xFE0F; |  | &#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | 
+| <small>1F3F5 FE0F</small><br>rosette<br>&#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | 
 | <small>1F339</small><br>rose<br>&#x1F339; | &#x1F339; | &#x1F339; | &#x1F339; | 
 | <small>1F940</small><br>wilted flower<br>&#x1F940; | &#x1F940; | &#x1F940; | &#x1F940; | 
 | <small>1F33A</small><br>hibiscus<br>&#x1F33A; | &#x1F33A; | &#x1F33A; | &#x1F33A; | 
@@ -2368,7 +2370,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F335</small><br>cactus<br>&#x1F335; | &#x1F335; | &#x1F335; | &#x1F335; | 
 | <small>1F33E</small><br>sheaf of rice<br>&#x1F33E; | &#x1F33E; | &#x1F33E; | &#x1F33E; | 
 | <small>1F33F</small><br>herb<br>&#x1F33F; | &#x1F33F; | &#x1F33F; | &#x1F33F; | 
-| <small>2618 FE0F</small><br>shamrock<br>&#x2618;&#xFE0F; |  | &#x2618;&#xFE0F; | &#x2618;&#xFE0F; | 
+| <small>2618 FE0F</small><br>shamrock<br>&#x2618;&#xFE0F; | &#x2618;&#xFE0F; | &#x2618;&#xFE0F; | &#x2618;&#xFE0F; | 
 | <small>1F340</small><br>four leaf clover<br>&#x1F340; | &#x1F340; | &#x1F340; | &#x1F340; | 
 | <small>1F341</small><br>maple leaf<br>&#x1F341; | &#x1F341; | &#x1F341; | &#x1F341; | 
 | <small>1F342</small><br>fallen leaf<br>&#x1F342; | &#x1F342; | &#x1F342; | &#x1F342; | 
@@ -2410,7 +2412,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F954</small><br>potato<br>&#x1F954; | &#x1F954; | &#x1F954; | &#x1F954; | 
 | <small>1F955</small><br>carrot<br>&#x1F955; | &#x1F955; | &#x1F955; | &#x1F955; | 
 | <small>1F33D</small><br>ear of corn<br>&#x1F33D; | &#x1F33D; | &#x1F33D; | &#x1F33D; | 
-| <small>1F336 FE0F</small><br>hot pepper<br>&#x1F336;&#xFE0F; |  | &#x1F336;&#xFE0F; | &#x1F336;&#xFE0F; | 
+| <small>1F336 FE0F</small><br>hot pepper<br>&#x1F336;&#xFE0F; | &#x1F336;&#xFE0F; | &#x1F336;&#xFE0F; | &#x1F336;&#xFE0F; | 
 | <small>1FAD1</small><br>bell pepper<br>&#x1FAD1; |  | &#x1FAD1; | &#x1FAD1; | 
 | <small>1F952</small><br>cucumber<br>&#x1F952; | &#x1F952; | &#x1F952; | &#x1F952; | 
 | <small>1F96C</small><br>leafy green<br>&#x1F96C; |  | &#x1F96C; | &#x1F96C; | 
@@ -2540,7 +2542,7 @@ For more information about the images and fonts used, please refer to [the READM
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | <small>1F962</small><br>chopsticks<br>&#x1F962; |  | &#x1F962; | &#x1F962; | 
-| <small>1F37D FE0F</small><br>fork and knife with plate<br>&#x1F37D;&#xFE0F; |  | &#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | 
+| <small>1F37D FE0F</small><br>fork and knife with plate<br>&#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | 
 | <small>1F374</small><br>fork and knife<br>&#x1F374; | &#x1F374; | &#x1F374; | &#x1F374; | 
 | <small>1F944</small><br>spoon<br>&#x1F944; | &#x1F944; | &#x1F944; | &#x1F944; | 
 | <small>1F52A</small><br>kitchen knife<br>&#x1F52A; | &#x1F52A; | &#x1F52A; | &#x1F52A; | 
@@ -2557,7 +2559,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F30E</small><br>globe showing Americas<br>&#x1F30E; | &#x1F30E; | &#x1F30E; | &#x1F30E; | 
 | <small>1F30F</small><br>globe showing Asia-Australia<br>&#x1F30F; | &#x1F30F; | &#x1F30F; | &#x1F30F; | 
 | <small>1F310</small><br>globe with meridians<br>&#x1F310; | &#x1F310; | &#x1F310; | &#x1F310; | 
-| <small>1F5FA FE0F</small><br>world map<br>&#x1F5FA;&#xFE0F; |  | &#x1F5FA;&#xFE0F; | &#x1F5FA;&#xFE0F; | 
+| <small>1F5FA FE0F</small><br>world map<br>&#x1F5FA;&#xFE0F; | &#x1F5FA;&#xFE0F; | &#x1F5FA;&#xFE0F; | &#x1F5FA;&#xFE0F; | 
 | <small>1F5FE</small><br>map of Japan<br>&#x1F5FE; | &#x1F5FE; | &#x1F5FE; | &#x1F5FE; | 
 | <small>1F9ED</small><br>compass<br>&#x1F9ED; |  | &#x1F9ED; | &#x1F9ED; | 
 
@@ -2565,29 +2567,29 @@ For more information about the images and fonts used, please refer to [the READM
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>1F3D4 FE0F</small><br>snow-capped mountain<br>&#x1F3D4;&#xFE0F; |  | &#x1F3D4;&#xFE0F; | &#x1F3D4;&#xFE0F; | 
-| <small>26F0 FE0F</small><br>mountain<br>&#x26F0;&#xFE0F; |  | &#x26F0;&#xFE0F; | &#x26F0;&#xFE0F; | 
+| <small>1F3D4 FE0F</small><br>snow-capped mountain<br>&#x1F3D4;&#xFE0F; | &#x1F3D4;&#xFE0F; | &#x1F3D4;&#xFE0F; | &#x1F3D4;&#xFE0F; | 
+| <small>26F0 FE0F</small><br>mountain<br>&#x26F0;&#xFE0F; | &#x26F0;&#xFE0F; | &#x26F0;&#xFE0F; | &#x26F0;&#xFE0F; | 
 | <small>1F30B</small><br>volcano<br>&#x1F30B; | &#x1F30B; | &#x1F30B; | &#x1F30B; | 
 | <small>1F5FB</small><br>mount fuji<br>&#x1F5FB; | &#x1F5FB; | &#x1F5FB; | &#x1F5FB; | 
-| <small>1F3D5 FE0F</small><br>camping<br>&#x1F3D5;&#xFE0F; |  | &#x1F3D5;&#xFE0F; | &#x1F3D5;&#xFE0F; | 
-| <small>1F3D6 FE0F</small><br>beach with umbrella<br>&#x1F3D6;&#xFE0F; |  | &#x1F3D6;&#xFE0F; | &#x1F3D6;&#xFE0F; | 
-| <small>1F3DC FE0F</small><br>desert<br>&#x1F3DC;&#xFE0F; |  | &#x1F3DC;&#xFE0F; | &#x1F3DC;&#xFE0F; | 
-| <small>1F3DD FE0F</small><br>desert island<br>&#x1F3DD;&#xFE0F; |  | &#x1F3DD;&#xFE0F; | &#x1F3DD;&#xFE0F; | 
-| <small>1F3DE FE0F</small><br>national park<br>&#x1F3DE;&#xFE0F; |  | &#x1F3DE;&#xFE0F; | &#x1F3DE;&#xFE0F; | 
+| <small>1F3D5 FE0F</small><br>camping<br>&#x1F3D5;&#xFE0F; | &#x1F3D5;&#xFE0F; | &#x1F3D5;&#xFE0F; | &#x1F3D5;&#xFE0F; | 
+| <small>1F3D6 FE0F</small><br>beach with umbrella<br>&#x1F3D6;&#xFE0F; | &#x1F3D6;&#xFE0F; | &#x1F3D6;&#xFE0F; | &#x1F3D6;&#xFE0F; | 
+| <small>1F3DC FE0F</small><br>desert<br>&#x1F3DC;&#xFE0F; | &#x1F3DC;&#xFE0F; | &#x1F3DC;&#xFE0F; | &#x1F3DC;&#xFE0F; | 
+| <small>1F3DD FE0F</small><br>desert island<br>&#x1F3DD;&#xFE0F; | &#x1F3DD;&#xFE0F; | &#x1F3DD;&#xFE0F; | &#x1F3DD;&#xFE0F; | 
+| <small>1F3DE FE0F</small><br>national park<br>&#x1F3DE;&#xFE0F; | &#x1F3DE;&#xFE0F; | &#x1F3DE;&#xFE0F; | &#x1F3DE;&#xFE0F; | 
 
 #### place-building
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>1F3DF FE0F</small><br>stadium<br>&#x1F3DF;&#xFE0F; |  | &#x1F3DF;&#xFE0F; | &#x1F3DF;&#xFE0F; | 
-| <small>1F3DB FE0F</small><br>classical building<br>&#x1F3DB;&#xFE0F; |  | &#x1F3DB;&#xFE0F; | &#x1F3DB;&#xFE0F; | 
-| <small>1F3D7 FE0F</small><br>building construction<br>&#x1F3D7;&#xFE0F; |  | &#x1F3D7;&#xFE0F; | &#x1F3D7;&#xFE0F; | 
+| <small>1F3DF FE0F</small><br>stadium<br>&#x1F3DF;&#xFE0F; | &#x1F3DF;&#xFE0F; | &#x1F3DF;&#xFE0F; | &#x1F3DF;&#xFE0F; | 
+| <small>1F3DB FE0F</small><br>classical building<br>&#x1F3DB;&#xFE0F; | &#x1F3DB;&#xFE0F; | &#x1F3DB;&#xFE0F; | &#x1F3DB;&#xFE0F; | 
+| <small>1F3D7 FE0F</small><br>building construction<br>&#x1F3D7;&#xFE0F; | &#x1F3D7;&#xFE0F; | &#x1F3D7;&#xFE0F; | &#x1F3D7;&#xFE0F; | 
 | <small>1F9F1</small><br>brick<br>&#x1F9F1; |  | &#x1F9F1; | &#x1F9F1; | 
 | <small>1FAA8</small><br>rock<br>&#x1FAA8; |  | &#x1FAA8; | &#x1FAA8; | 
 | <small>1FAB5</small><br>wood<br>&#x1FAB5; |  | &#x1FAB5; | &#x1FAB5; | 
 | <small>1F6D6</small><br>hut<br>&#x1F6D6; |  | &#x1F6D6; | &#x1F6D6; | 
-| <small>1F3D8 FE0F</small><br>houses<br>&#x1F3D8;&#xFE0F; |  | &#x1F3D8;&#xFE0F; | &#x1F3D8;&#xFE0F; | 
-| <small>1F3DA FE0F</small><br>derelict house<br>&#x1F3DA;&#xFE0F; |  | &#x1F3DA;&#xFE0F; | &#x1F3DA;&#xFE0F; | 
+| <small>1F3D8 FE0F</small><br>houses<br>&#x1F3D8;&#xFE0F; | &#x1F3D8;&#xFE0F; | &#x1F3D8;&#xFE0F; | &#x1F3D8;&#xFE0F; | 
+| <small>1F3DA FE0F</small><br>derelict house<br>&#x1F3DA;&#xFE0F; | &#x1F3DA;&#xFE0F; | &#x1F3DA;&#xFE0F; | &#x1F3DA;&#xFE0F; | 
 | <small>1F3E0</small><br>house<br>&#x1F3E0; | &#x1F3E0; | &#x1F3E0; | &#x1F3E0; | 
 | <small>1F3E1</small><br>house with garden<br>&#x1F3E1; | &#x1F3E1; | &#x1F3E1; | &#x1F3E1; | 
 | <small>1F3E2</small><br>office building<br>&#x1F3E2; | &#x1F3E2; | &#x1F3E2; | &#x1F3E2; | 
@@ -2615,7 +2617,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F54C</small><br>mosque<br>&#x1F54C; | &#x1F54C; | &#x1F54C; | &#x1F54C; | 
 | <small>1F6D5</small><br>hindu temple<br>&#x1F6D5; |  | &#x1F6D5; | &#x1F6D5; | 
 | <small>1F54D</small><br>synagogue<br>&#x1F54D; | &#x1F54D; | &#x1F54D; | &#x1F54D; | 
-| <small>26E9 FE0F</small><br>shinto shrine<br>&#x26E9;&#xFE0F; |  | &#x26E9;&#xFE0F; | &#x26E9;&#xFE0F; | 
+| <small>26E9 FE0F</small><br>shinto shrine<br>&#x26E9;&#xFE0F; | &#x26E9;&#xFE0F; | &#x26E9;&#xFE0F; | &#x26E9;&#xFE0F; | 
 | <small>1F54B</small><br>kaaba<br>&#x1F54B; | &#x1F54B; | &#x1F54B; | &#x1F54B; | 
 
 #### place-other
@@ -2626,13 +2628,13 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>26FA</small><br>tent<br>&#x26FA; | &#x26FA; | &#x26FA; | &#x26FA; | 
 | <small>1F301</small><br>foggy<br>&#x1F301; | &#x1F301; | &#x1F301; | &#x1F301; | 
 | <small>1F303</small><br>night with stars<br>&#x1F303; | &#x1F303; | &#x1F303; | &#x1F303; | 
-| <small>1F3D9 FE0F</small><br>cityscape<br>&#x1F3D9;&#xFE0F; |  | &#x1F3D9;&#xFE0F; | &#x1F3D9;&#xFE0F; | 
+| <small>1F3D9 FE0F</small><br>cityscape<br>&#x1F3D9;&#xFE0F; | &#x1F3D9;&#xFE0F; | &#x1F3D9;&#xFE0F; | &#x1F3D9;&#xFE0F; | 
 | <small>1F304</small><br>sunrise over mountains<br>&#x1F304; | &#x1F304; | &#x1F304; | &#x1F304; | 
 | <small>1F305</small><br>sunrise<br>&#x1F305; | &#x1F305; | &#x1F305; | &#x1F305; | 
 | <small>1F306</small><br>cityscape at dusk<br>&#x1F306; | &#x1F306; | &#x1F306; | &#x1F306; | 
 | <small>1F307</small><br>sunset<br>&#x1F307; | &#x1F307; | &#x1F307; | &#x1F307; | 
 | <small>1F309</small><br>bridge at night<br>&#x1F309; | &#x1F309; | &#x1F309; | &#x1F309; | 
-| <small>2668 FE0F</small><br>hot springs<br>&#x2668;&#xFE0F; |  | &#x2668;&#xFE0F; | &#x2668;&#xFE0F; | 
+| <small>2668 FE0F</small><br>hot springs<br>&#x2668;&#xFE0F; | &#x2668;&#xFE0F; | &#x2668;&#xFE0F; | &#x2668;&#xFE0F; | 
 | <small>1F3A0</small><br>carousel horse<br>&#x1F3A0; | &#x1F3A0; | &#x1F3A0; | &#x1F3A0; | 
 | <small>1F3A1</small><br>ferris wheel<br>&#x1F3A1; | &#x1F3A1; | &#x1F3A1; | &#x1F3A1; | 
 | <small>1F3A2</small><br>roller coaster<br>&#x1F3A2; | &#x1F3A2; | &#x1F3A2; | &#x1F3A2; | 
@@ -2672,8 +2674,8 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F69A</small><br>delivery truck<br>&#x1F69A; | &#x1F69A; | &#x1F69A; | &#x1F69A; | 
 | <small>1F69B</small><br>articulated lorry<br>&#x1F69B; | &#x1F69B; | &#x1F69B; | &#x1F69B; | 
 | <small>1F69C</small><br>tractor<br>&#x1F69C; | &#x1F69C; | &#x1F69C; | &#x1F69C; | 
-| <small>1F3CE FE0F</small><br>racing car<br>&#x1F3CE;&#xFE0F; |  | &#x1F3CE;&#xFE0F; | &#x1F3CE;&#xFE0F; | 
-| <small>1F3CD FE0F</small><br>motorcycle<br>&#x1F3CD;&#xFE0F; |  | &#x1F3CD;&#xFE0F; | &#x1F3CD;&#xFE0F; | 
+| <small>1F3CE FE0F</small><br>racing car<br>&#x1F3CE;&#xFE0F; | &#x1F3CE;&#xFE0F; | &#x1F3CE;&#xFE0F; | &#x1F3CE;&#xFE0F; | 
+| <small>1F3CD FE0F</small><br>motorcycle<br>&#x1F3CD;&#xFE0F; | &#x1F3CD;&#xFE0F; | &#x1F3CD;&#xFE0F; | &#x1F3CD;&#xFE0F; | 
 | <small>1F6F5</small><br>motor scooter<br>&#x1F6F5; | &#x1F6F5; | &#x1F6F5; | &#x1F6F5; | 
 | <small>1F9BD</small><br>manual wheelchair<br>&#x1F9BD; |  | &#x1F9BD; | &#x1F9BD; | 
 | <small>1F9BC</small><br>motorized wheelchair<br>&#x1F9BC; |  | &#x1F9BC; | &#x1F9BC; | 
@@ -2683,9 +2685,9 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F6F9</small><br>skateboard<br>&#x1F6F9; |  | &#x1F6F9; | &#x1F6F9; | 
 | <small>1F6FC</small><br>roller skate<br>&#x1F6FC; |  | &#x1F6FC; | &#x1F6FC; | 
 | <small>1F68F</small><br>bus stop<br>&#x1F68F; | &#x1F68F; | &#x1F68F; | &#x1F68F; | 
-| <small>1F6E3 FE0F</small><br>motorway<br>&#x1F6E3;&#xFE0F; |  | &#x1F6E3;&#xFE0F; | &#x1F6E3;&#xFE0F; | 
-| <small>1F6E4 FE0F</small><br>railway track<br>&#x1F6E4;&#xFE0F; |  | &#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | 
-| <small>1F6E2 FE0F</small><br>oil drum<br>&#x1F6E2;&#xFE0F; |  | &#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | 
+| <small>1F6E3 FE0F</small><br>motorway<br>&#x1F6E3;&#xFE0F; | &#x1F6E3;&#xFE0F; | &#x1F6E3;&#xFE0F; | &#x1F6E3;&#xFE0F; | 
+| <small>1F6E4 FE0F</small><br>railway track<br>&#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | 
+| <small>1F6E2 FE0F</small><br>oil drum<br>&#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | 
 | <small>26FD</small><br>fuel pump<br>&#x26FD; | &#x26FD; | &#x26FD; | &#x26FD; | 
 | <small>1F6A8</small><br>police car light<br>&#x1F6A8; | &#x1F6A8; | &#x1F6A8; | &#x1F6A8; | 
 | <small>1F6A5</small><br>horizontal traffic light<br>&#x1F6A5; | &#x1F6A5; | &#x1F6A5; | &#x1F6A5; | 
@@ -2701,17 +2703,17 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>26F5</small><br>sailboat<br>&#x26F5; | &#x26F5; | &#x26F5; | &#x26F5; | 
 | <small>1F6F6</small><br>canoe<br>&#x1F6F6; | &#x1F6F6; | &#x1F6F6; | &#x1F6F6; | 
 | <small>1F6A4</small><br>speedboat<br>&#x1F6A4; | &#x1F6A4; | &#x1F6A4; | &#x1F6A4; | 
-| <small>1F6F3 FE0F</small><br>passenger ship<br>&#x1F6F3;&#xFE0F; |  | &#x1F6F3;&#xFE0F; | &#x1F6F3;&#xFE0F; | 
-| <small>26F4 FE0F</small><br>ferry<br>&#x26F4;&#xFE0F; |  | &#x26F4;&#xFE0F; | &#x26F4;&#xFE0F; | 
-| <small>1F6E5 FE0F</small><br>motor boat<br>&#x1F6E5;&#xFE0F; |  | &#x1F6E5;&#xFE0F; | &#x1F6E5;&#xFE0F; | 
+| <small>1F6F3 FE0F</small><br>passenger ship<br>&#x1F6F3;&#xFE0F; | &#x1F6F3;&#xFE0F; | &#x1F6F3;&#xFE0F; | &#x1F6F3;&#xFE0F; | 
+| <small>26F4 FE0F</small><br>ferry<br>&#x26F4;&#xFE0F; | &#x26F4;&#xFE0F; | &#x26F4;&#xFE0F; | &#x26F4;&#xFE0F; | 
+| <small>1F6E5 FE0F</small><br>motor boat<br>&#x1F6E5;&#xFE0F; | &#x1F6E5;&#xFE0F; | &#x1F6E5;&#xFE0F; | &#x1F6E5;&#xFE0F; | 
 | <small>1F6A2</small><br>ship<br>&#x1F6A2; | &#x1F6A2; | &#x1F6A2; | &#x1F6A2; | 
 
 #### transport-air
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>2708 FE0F</small><br>airplane<br>&#x2708;&#xFE0F; |  | &#x2708;&#xFE0F; | &#x2708;&#xFE0F; | 
-| <small>1F6E9 FE0F</small><br>small airplane<br>&#x1F6E9;&#xFE0F; |  | &#x1F6E9;&#xFE0F; | &#x1F6E9;&#xFE0F; | 
+| <small>2708 FE0F</small><br>airplane<br>&#x2708;&#xFE0F; | &#x2708;&#xFE0F; | &#x2708;&#xFE0F; | &#x2708;&#xFE0F; | 
+| <small>1F6E9 FE0F</small><br>small airplane<br>&#x1F6E9;&#xFE0F; | &#x1F6E9;&#xFE0F; | &#x1F6E9;&#xFE0F; | &#x1F6E9;&#xFE0F; | 
 | <small>1F6EB</small><br>airplane departure<br>&#x1F6EB; | &#x1F6EB; | &#x1F6EB; | &#x1F6EB; | 
 | <small>1F6EC</small><br>airplane arrival<br>&#x1F6EC; | &#x1F6EC; | &#x1F6EC; | &#x1F6EC; | 
 | <small>1FA82</small><br>parachute<br>&#x1FA82; |  | &#x1FA82; | &#x1FA82; | 
@@ -2720,7 +2722,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F69F</small><br>suspension railway<br>&#x1F69F; | &#x1F69F; | &#x1F69F; | &#x1F69F; | 
 | <small>1F6A0</small><br>mountain cableway<br>&#x1F6A0; | &#x1F6A0; | &#x1F6A0; | &#x1F6A0; | 
 | <small>1F6A1</small><br>aerial tramway<br>&#x1F6A1; | &#x1F6A1; | &#x1F6A1; | &#x1F6A1; | 
-| <small>1F6F0 FE0F</small><br>satellite<br>&#x1F6F0;&#xFE0F; |  | &#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | 
+| <small>1F6F0 FE0F</small><br>satellite<br>&#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | 
 | <small>1F680</small><br>rocket<br>&#x1F680; | &#x1F680; | &#x1F680; | &#x1F680; | 
 | <small>1F6F8</small><br>flying saucer<br>&#x1F6F8; |  | &#x1F6F8; | &#x1F6F8; | 
 
@@ -2728,7 +2730,7 @@ For more information about the images and fonts used, please refer to [the READM
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>1F6CE FE0F</small><br>bellhop bell<br>&#x1F6CE;&#xFE0F; |  | &#x1F6CE;&#xFE0F; | &#x1F6CE;&#xFE0F; | 
+| <small>1F6CE FE0F</small><br>bellhop bell<br>&#x1F6CE;&#xFE0F; | &#x1F6CE;&#xFE0F; | &#x1F6CE;&#xFE0F; | &#x1F6CE;&#xFE0F; | 
 | <small>1F9F3</small><br>luggage<br>&#x1F9F3; |  | &#x1F9F3; | &#x1F9F3; | 
 
 #### time
@@ -2739,9 +2741,9 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>23F3</small><br>hourglass not done<br>&#x23F3; | &#x23F3; | &#x23F3; | &#x23F3; | 
 | <small>231A</small><br>watch<br>&#x231A; | &#x231A; | &#x231A; | &#x231A; | 
 | <small>23F0</small><br>alarm clock<br>&#x23F0; | &#x23F0; | &#x23F0; | &#x23F0; | 
-| <small>23F1 FE0F</small><br>stopwatch<br>&#x23F1;&#xFE0F; |  | &#x23F1;&#xFE0F; | &#x23F1;&#xFE0F; | 
-| <small>23F2 FE0F</small><br>timer clock<br>&#x23F2;&#xFE0F; |  | &#x23F2;&#xFE0F; | &#x23F2;&#xFE0F; | 
-| <small>1F570 FE0F</small><br>mantelpiece clock<br>&#x1F570;&#xFE0F; |  | &#x1F570;&#xFE0F; | &#x1F570;&#xFE0F; | 
+| <small>23F1 FE0F</small><br>stopwatch<br>&#x23F1;&#xFE0F; | &#x23F1;&#xFE0F; | &#x23F1;&#xFE0F; | &#x23F1;&#xFE0F; | 
+| <small>23F2 FE0F</small><br>timer clock<br>&#x23F2;&#xFE0F; | &#x23F2;&#xFE0F; | &#x23F2;&#xFE0F; | &#x23F2;&#xFE0F; | 
+| <small>1F570 FE0F</small><br>mantelpiece clock<br>&#x1F570;&#xFE0F; | &#x1F570;&#xFE0F; | &#x1F570;&#xFE0F; | &#x1F570;&#xFE0F; | 
 | <small>1F55B</small><br>twelve o’clock<br>&#x1F55B; | &#x1F55B; | &#x1F55B; | &#x1F55B; | 
 | <small>1F567</small><br>twelve-thirty<br>&#x1F567; | &#x1F567; | &#x1F567; | &#x1F567; | 
 | <small>1F550</small><br>one o’clock<br>&#x1F550; | &#x1F550; | &#x1F550; | &#x1F550; | 
@@ -2783,8 +2785,8 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F31A</small><br>new moon face<br>&#x1F31A; | &#x1F31A; | &#x1F31A; | &#x1F31A; | 
 | <small>1F31B</small><br>first quarter moon face<br>&#x1F31B; | &#x1F31B; | &#x1F31B; | &#x1F31B; | 
 | <small>1F31C</small><br>last quarter moon face<br>&#x1F31C; | &#x1F31C; | &#x1F31C; | &#x1F31C; | 
-| <small>1F321 FE0F</small><br>thermometer<br>&#x1F321;&#xFE0F; |  | &#x1F321;&#xFE0F; | &#x1F321;&#xFE0F; | 
-| <small>2600 FE0F</small><br>sun<br>&#x2600;&#xFE0F; |  | &#x2600;&#xFE0F; | &#x2600;&#xFE0F; | 
+| <small>1F321 FE0F</small><br>thermometer<br>&#x1F321;&#xFE0F; | &#x1F321;&#xFE0F; | &#x1F321;&#xFE0F; | &#x1F321;&#xFE0F; | 
+| <small>2600 FE0F</small><br>sun<br>&#x2600;&#xFE0F; | &#x2600;&#xFE0F; | &#x2600;&#xFE0F; | &#x2600;&#xFE0F; | 
 | <small>1F31D</small><br>full moon face<br>&#x1F31D; | &#x1F31D; | &#x1F31D; | &#x1F31D; | 
 | <small>1F31E</small><br>sun with face<br>&#x1F31E; | &#x1F31E; | &#x1F31E; | &#x1F31E; | 
 | <small>1FA90</small><br>ringed planet<br>&#x1FA90; |  | &#x1FA90; | &#x1FA90; | 
@@ -2792,29 +2794,29 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F31F</small><br>glowing star<br>&#x1F31F; | &#x1F31F; | &#x1F31F; | &#x1F31F; | 
 | <small>1F320</small><br>shooting star<br>&#x1F320; | &#x1F320; | &#x1F320; | &#x1F320; | 
 | <small>1F30C</small><br>milky way<br>&#x1F30C; | &#x1F30C; | &#x1F30C; | &#x1F30C; | 
-| <small>2601 FE0F</small><br>cloud<br>&#x2601;&#xFE0F; |  | &#x2601;&#xFE0F; | &#x2601;&#xFE0F; | 
+| <small>2601 FE0F</small><br>cloud<br>&#x2601;&#xFE0F; | &#x2601;&#xFE0F; | &#x2601;&#xFE0F; | &#x2601;&#xFE0F; | 
 | <small>26C5</small><br>sun behind cloud<br>&#x26C5; | &#x26C5; | &#x26C5; | &#x26C5; | 
-| <small>26C8 FE0F</small><br>cloud with lightning and rain<br>&#x26C8;&#xFE0F; |  | &#x26C8;&#xFE0F; | &#x26C8;&#xFE0F; | 
-| <small>1F324 FE0F</small><br>sun behind small cloud<br>&#x1F324;&#xFE0F; |  | &#x1F324;&#xFE0F; | &#x1F324;&#xFE0F; | 
-| <small>1F325 FE0F</small><br>sun behind large cloud<br>&#x1F325;&#xFE0F; |  | &#x1F325;&#xFE0F; | &#x1F325;&#xFE0F; | 
-| <small>1F326 FE0F</small><br>sun behind rain cloud<br>&#x1F326;&#xFE0F; |  | &#x1F326;&#xFE0F; | &#x1F326;&#xFE0F; | 
-| <small>1F327 FE0F</small><br>cloud with rain<br>&#x1F327;&#xFE0F; |  | &#x1F327;&#xFE0F; | &#x1F327;&#xFE0F; | 
-| <small>1F328 FE0F</small><br>cloud with snow<br>&#x1F328;&#xFE0F; |  | &#x1F328;&#xFE0F; | &#x1F328;&#xFE0F; | 
-| <small>1F329 FE0F</small><br>cloud with lightning<br>&#x1F329;&#xFE0F; |  | &#x1F329;&#xFE0F; | &#x1F329;&#xFE0F; | 
-| <small>1F32A FE0F</small><br>tornado<br>&#x1F32A;&#xFE0F; |  | &#x1F32A;&#xFE0F; | &#x1F32A;&#xFE0F; | 
-| <small>1F32B FE0F</small><br>fog<br>&#x1F32B;&#xFE0F; |  | &#x1F32B;&#xFE0F; | &#x1F32B;&#xFE0F; | 
-| <small>1F32C FE0F</small><br>wind face<br>&#x1F32C;&#xFE0F; |  | &#x1F32C;&#xFE0F; | &#x1F32C;&#xFE0F; | 
+| <small>26C8 FE0F</small><br>cloud with lightning and rain<br>&#x26C8;&#xFE0F; | &#x26C8;&#xFE0F; | &#x26C8;&#xFE0F; | &#x26C8;&#xFE0F; | 
+| <small>1F324 FE0F</small><br>sun behind small cloud<br>&#x1F324;&#xFE0F; | &#x1F324;&#xFE0F; | &#x1F324;&#xFE0F; | &#x1F324;&#xFE0F; | 
+| <small>1F325 FE0F</small><br>sun behind large cloud<br>&#x1F325;&#xFE0F; | &#x1F325;&#xFE0F; | &#x1F325;&#xFE0F; | &#x1F325;&#xFE0F; | 
+| <small>1F326 FE0F</small><br>sun behind rain cloud<br>&#x1F326;&#xFE0F; | &#x1F326;&#xFE0F; | &#x1F326;&#xFE0F; | &#x1F326;&#xFE0F; | 
+| <small>1F327 FE0F</small><br>cloud with rain<br>&#x1F327;&#xFE0F; | &#x1F327;&#xFE0F; | &#x1F327;&#xFE0F; | &#x1F327;&#xFE0F; | 
+| <small>1F328 FE0F</small><br>cloud with snow<br>&#x1F328;&#xFE0F; | &#x1F328;&#xFE0F; | &#x1F328;&#xFE0F; | &#x1F328;&#xFE0F; | 
+| <small>1F329 FE0F</small><br>cloud with lightning<br>&#x1F329;&#xFE0F; | &#x1F329;&#xFE0F; | &#x1F329;&#xFE0F; | &#x1F329;&#xFE0F; | 
+| <small>1F32A FE0F</small><br>tornado<br>&#x1F32A;&#xFE0F; | &#x1F32A;&#xFE0F; | &#x1F32A;&#xFE0F; | &#x1F32A;&#xFE0F; | 
+| <small>1F32B FE0F</small><br>fog<br>&#x1F32B;&#xFE0F; | &#x1F32B;&#xFE0F; | &#x1F32B;&#xFE0F; | &#x1F32B;&#xFE0F; | 
+| <small>1F32C FE0F</small><br>wind face<br>&#x1F32C;&#xFE0F; | &#x1F32C;&#xFE0F; | &#x1F32C;&#xFE0F; | &#x1F32C;&#xFE0F; | 
 | <small>1F300</small><br>cyclone<br>&#x1F300; | &#x1F300; | &#x1F300; | &#x1F300; | 
 | <small>1F308</small><br>rainbow<br>&#x1F308; | &#x1F308; | &#x1F308; | &#x1F308; | 
 | <small>1F302</small><br>closed umbrella<br>&#x1F302; | &#x1F302; | &#x1F302; | &#x1F302; | 
-| <small>2602 FE0F</small><br>umbrella<br>&#x2602;&#xFE0F; |  | &#x2602;&#xFE0F; | &#x2602;&#xFE0F; | 
+| <small>2602 FE0F</small><br>umbrella<br>&#x2602;&#xFE0F; | &#x2602;&#xFE0F; | &#x2602;&#xFE0F; | &#x2602;&#xFE0F; | 
 | <small>2614</small><br>umbrella with rain drops<br>&#x2614; | &#x2614; | &#x2614; | &#x2614; | 
-| <small>26F1 FE0F</small><br>umbrella on ground<br>&#x26F1;&#xFE0F; |  | &#x26F1;&#xFE0F; | &#x26F1;&#xFE0F; | 
+| <small>26F1 FE0F</small><br>umbrella on ground<br>&#x26F1;&#xFE0F; | &#x26F1;&#xFE0F; | &#x26F1;&#xFE0F; | &#x26F1;&#xFE0F; | 
 | <small>26A1</small><br>high voltage<br>&#x26A1; | &#x26A1; | &#x26A1; | &#x26A1; | 
-| <small>2744 FE0F</small><br>snowflake<br>&#x2744;&#xFE0F; |  | &#x2744;&#xFE0F; | &#x2744;&#xFE0F; | 
-| <small>2603 FE0F</small><br>snowman<br>&#x2603;&#xFE0F; |  | &#x2603;&#xFE0F; | &#x2603;&#xFE0F; | 
+| <small>2744 FE0F</small><br>snowflake<br>&#x2744;&#xFE0F; | &#x2744;&#xFE0F; | &#x2744;&#xFE0F; | &#x2744;&#xFE0F; | 
+| <small>2603 FE0F</small><br>snowman<br>&#x2603;&#xFE0F; | &#x2603;&#xFE0F; | &#x2603;&#xFE0F; | &#x2603;&#xFE0F; | 
 | <small>26C4</small><br>snowman without snow<br>&#x26C4; | &#x26C4; | &#x26C4; | &#x26C4; | 
-| <small>2604 FE0F</small><br>comet<br>&#x2604;&#xFE0F; |  | &#x2604;&#xFE0F; | &#x2604;&#xFE0F; | 
+| <small>2604 FE0F</small><br>comet<br>&#x2604;&#xFE0F; | &#x2604;&#xFE0F; | &#x2604;&#xFE0F; | &#x2604;&#xFE0F; | 
 | <small>1F525</small><br>fire<br>&#x1F525; | &#x1F525; | &#x1F525; | &#x1F525; | 
 | <small>1F4A7</small><br>droplet<br>&#x1F4A7; | &#x1F4A7; | &#x1F4A7; | &#x1F4A7; | 
 | <small>1F30A</small><br>water wave<br>&#x1F30A; | &#x1F30A; | &#x1F30A; | &#x1F30A; | 
@@ -2844,15 +2846,15 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F9E7</small><br>red envelope<br>&#x1F9E7; |  | &#x1F9E7; | &#x1F9E7; | 
 | <small>1F380</small><br>ribbon<br>&#x1F380; | &#x1F380; | &#x1F380; | &#x1F380; | 
 | <small>1F381</small><br>wrapped gift<br>&#x1F381; | &#x1F381; | &#x1F381; | &#x1F381; | 
-| <small>1F397 FE0F</small><br>reminder ribbon<br>&#x1F397;&#xFE0F; |  | &#x1F397;&#xFE0F; | &#x1F397;&#xFE0F; | 
-| <small>1F39F FE0F</small><br>admission tickets<br>&#x1F39F;&#xFE0F; |  | &#x1F39F;&#xFE0F; | &#x1F39F;&#xFE0F; | 
+| <small>1F397 FE0F</small><br>reminder ribbon<br>&#x1F397;&#xFE0F; | &#x1F397;&#xFE0F; | &#x1F397;&#xFE0F; | &#x1F397;&#xFE0F; | 
+| <small>1F39F FE0F</small><br>admission tickets<br>&#x1F39F;&#xFE0F; | &#x1F39F;&#xFE0F; | &#x1F39F;&#xFE0F; | &#x1F39F;&#xFE0F; | 
 | <small>1F3AB</small><br>ticket<br>&#x1F3AB; | &#x1F3AB; | &#x1F3AB; | &#x1F3AB; | 
 
 #### award-medal
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>1F396 FE0F</small><br>military medal<br>&#x1F396;&#xFE0F; |  | &#x1F396;&#xFE0F; | &#x1F396;&#xFE0F; | 
+| <small>1F396 FE0F</small><br>military medal<br>&#x1F396;&#xFE0F; | &#x1F396;&#xFE0F; | &#x1F396;&#xFE0F; | &#x1F396;&#xFE0F; | 
 | <small>1F3C6</small><br>trophy<br>&#x1F3C6; | &#x1F3C6; | &#x1F3C6; | &#x1F3C6; | 
 | <small>1F3C5</small><br>sports medal<br>&#x1F3C5; | &#x1F3C5; | &#x1F3C5; | &#x1F3C5; | 
 | <small>1F947</small><br>st place medal<br>&#x1F947; | &#x1F947; | &#x1F947; | &#x1F947; | 
@@ -2883,7 +2885,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F94B</small><br>martial arts uniform<br>&#x1F94B; | &#x1F94B; | &#x1F94B; | &#x1F94B; | 
 | <small>1F945</small><br>goal net<br>&#x1F945; | &#x1F945; | &#x1F945; | &#x1F945; | 
 | <small>26F3</small><br>flag in hole<br>&#x26F3; | &#x26F3; | &#x26F3; | &#x26F3; | 
-| <small>26F8 FE0F</small><br>ice skate<br>&#x26F8;&#xFE0F; |  | &#x26F8;&#xFE0F; | &#x26F8;&#xFE0F; | 
+| <small>26F8 FE0F</small><br>ice skate<br>&#x26F8;&#xFE0F; | &#x26F8;&#xFE0F; | &#x26F8;&#xFE0F; | &#x26F8;&#xFE0F; | 
 | <small>1F3A3</small><br>fishing pole<br>&#x1F3A3; | &#x1F3A3; | &#x1F3A3; | &#x1F3A3; | 
 | <small>1F93F</small><br>diving mask<br>&#x1F93F; |  | &#x1F93F; | &#x1F93F; | 
 | <small>1F3BD</small><br>running shirt<br>&#x1F3BD; | &#x1F3BD; | &#x1F3BD; | &#x1F3BD; | 
@@ -2903,17 +2905,17 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1FA84</small><br>magic wand<br>&#x1FA84; |  | &#x1FA84; | &#x1FA84; | 
 | <small>1F9FF</small><br>nazar amulet<br>&#x1F9FF; |  | &#x1F9FF; | &#x1F9FF; | 
 | <small>1F3AE</small><br>video game<br>&#x1F3AE; | &#x1F3AE; | &#x1F3AE; | &#x1F3AE; | 
-| <small>1F579 FE0F</small><br>joystick<br>&#x1F579;&#xFE0F; |  | &#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | 
+| <small>1F579 FE0F</small><br>joystick<br>&#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | 
 | <small>1F3B0</small><br>slot machine<br>&#x1F3B0; | &#x1F3B0; | &#x1F3B0; | &#x1F3B0; | 
 | <small>1F3B2</small><br>game die<br>&#x1F3B2; | &#x1F3B2; | &#x1F3B2; | &#x1F3B2; | 
 | <small>1F9E9</small><br>puzzle piece<br>&#x1F9E9; |  | &#x1F9E9; | &#x1F9E9; | 
 | <small>1F9F8</small><br>teddy bear<br>&#x1F9F8; |  | &#x1F9F8; | &#x1F9F8; | 
 | <small>1FA85</small><br>piñata<br>&#x1FA85; |  | &#x1FA85; | &#x1FA85; | 
 | <small>1FA86</small><br>nesting dolls<br>&#x1FA86; |  | &#x1FA86; | &#x1FA86; | 
-| <small>2660 FE0F</small><br>spade suit<br>&#x2660;&#xFE0F; |  | &#x2660;&#xFE0F; | &#x2660;&#xFE0F; | 
-| <small>2665 FE0F</small><br>heart suit<br>&#x2665;&#xFE0F; |  | &#x2665;&#xFE0F; | &#x2665;&#xFE0F; | 
-| <small>2666 FE0F</small><br>diamond suit<br>&#x2666;&#xFE0F; |  | &#x2666;&#xFE0F; | &#x2666;&#xFE0F; | 
-| <small>2663 FE0F</small><br>club suit<br>&#x2663;&#xFE0F; |  | &#x2663;&#xFE0F; | &#x2663;&#xFE0F; | 
+| <small>2660 FE0F</small><br>spade suit<br>&#x2660;&#xFE0F; | &#x2660;&#xFE0F; | &#x2660;&#xFE0F; | &#x2660;&#xFE0F; | 
+| <small>2665 FE0F</small><br>heart suit<br>&#x2665;&#xFE0F; | &#x2665;&#xFE0F; | &#x2665;&#xFE0F; | &#x2665;&#xFE0F; | 
+| <small>2666 FE0F</small><br>diamond suit<br>&#x2666;&#xFE0F; | &#x2666;&#xFE0F; | &#x2666;&#xFE0F; | &#x2666;&#xFE0F; | 
+| <small>2663 FE0F</small><br>club suit<br>&#x2663;&#xFE0F; | &#x2663;&#xFE0F; | &#x2663;&#xFE0F; | &#x2663;&#xFE0F; | 
 | <small>265F FE0F</small><br>chess pawn<br>&#x265F;&#xFE0F; |  | &#x265F;&#xFE0F; | &#x265F;&#xFE0F; | 
 | <small>1F0CF</small><br>joker<br>&#x1F0CF; | &#x1F0CF; | &#x1F0CF; | &#x1F0CF; | 
 | <small>1F004</small><br>mahjong red dragon<br>&#x1F004; | &#x1F004; | &#x1F004; | &#x1F004; | 
@@ -2924,7 +2926,7 @@ For more information about the images and fonts used, please refer to [the READM
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | <small>1F3AD</small><br>performing arts<br>&#x1F3AD; | &#x1F3AD; | &#x1F3AD; | &#x1F3AD; | 
-| <small>1F5BC FE0F</small><br>framed picture<br>&#x1F5BC;&#xFE0F; |  | &#x1F5BC;&#xFE0F; | &#x1F5BC;&#xFE0F; | 
+| <small>1F5BC FE0F</small><br>framed picture<br>&#x1F5BC;&#xFE0F; | &#x1F5BC;&#xFE0F; | &#x1F5BC;&#xFE0F; | &#x1F5BC;&#xFE0F; | 
 | <small>1F3A8</small><br>artist palette<br>&#x1F3A8; | &#x1F3A8; | &#x1F3A8; | &#x1F3A8; | 
 | <small>1F9F5</small><br>thread<br>&#x1F9F5; |  | &#x1F9F5; | &#x1F9F5; | 
 | <small>1FAA1</small><br>sewing needle<br>&#x1FAA1; |  | &#x1FAA1; | &#x1FAA1; | 
@@ -2939,7 +2941,7 @@ For more information about the images and fonts used, please refer to [the READM
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | <small>1F453</small><br>glasses<br>&#x1F453; | &#x1F453; | &#x1F453; | &#x1F453; | 
-| <small>1F576 FE0F</small><br>sunglasses<br>&#x1F576;&#xFE0F; |  | &#x1F576;&#xFE0F; | &#x1F576;&#xFE0F; | 
+| <small>1F576 FE0F</small><br>sunglasses<br>&#x1F576;&#xFE0F; | &#x1F576;&#xFE0F; | &#x1F576;&#xFE0F; | &#x1F576;&#xFE0F; | 
 | <small>1F97D</small><br>goggles<br>&#x1F97D; |  | &#x1F97D; | &#x1F97D; | 
 | <small>1F97C</small><br>lab coat<br>&#x1F97C; |  | &#x1F97C; | &#x1F97C; | 
 | <small>1F9BA</small><br>safety vest<br>&#x1F9BA; |  | &#x1F9BA; | &#x1F9BA; | 
@@ -2961,7 +2963,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F45B</small><br>purse<br>&#x1F45B; | &#x1F45B; | &#x1F45B; | &#x1F45B; | 
 | <small>1F45C</small><br>handbag<br>&#x1F45C; | &#x1F45C; | &#x1F45C; | &#x1F45C; | 
 | <small>1F45D</small><br>clutch bag<br>&#x1F45D; | &#x1F45D; | &#x1F45D; | &#x1F45D; | 
-| <small>1F6CD FE0F</small><br>shopping bags<br>&#x1F6CD;&#xFE0F; |  | &#x1F6CD;&#xFE0F; | &#x1F6CD;&#xFE0F; | 
+| <small>1F6CD FE0F</small><br>shopping bags<br>&#x1F6CD;&#xFE0F; | &#x1F6CD;&#xFE0F; | &#x1F6CD;&#xFE0F; | &#x1F6CD;&#xFE0F; | 
 | <small>1F392</small><br>backpack<br>&#x1F392; | &#x1F392; | &#x1F392; | &#x1F392; | 
 | <small>1FA74</small><br>thong sandal<br>&#x1FA74; |  | &#x1FA74; | &#x1FA74; | 
 | <small>1F45E</small><br>man’s shoe<br>&#x1F45E; | &#x1F45E; | &#x1F45E; | &#x1F45E; | 
@@ -2978,7 +2980,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F393</small><br>graduation cap<br>&#x1F393; | &#x1F393; | &#x1F393; | &#x1F393; | 
 | <small>1F9E2</small><br>billed cap<br>&#x1F9E2; |  | &#x1F9E2; | &#x1F9E2; | 
 | <small>1FA96</small><br>military helmet<br>&#x1FA96; |  | &#x1FA96; | &#x1FA96; | 
-| <small>26D1 FE0F</small><br>rescue worker’s helmet<br>&#x26D1;&#xFE0F; |  | &#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | 
+| <small>26D1 FE0F</small><br>rescue worker’s helmet<br>&#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | 
 | <small>1F4FF</small><br>prayer beads<br>&#x1F4FF; | &#x1F4FF; | &#x1F4FF; | &#x1F4FF; | 
 | <small>1F484</small><br>lipstick<br>&#x1F484; | &#x1F484; | &#x1F484; | &#x1F484; | 
 | <small>1F48D</small><br>ring<br>&#x1F48D; | &#x1F48D; | &#x1F48D; | &#x1F48D; | 
@@ -3005,9 +3007,9 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F3BC</small><br>musical score<br>&#x1F3BC; | &#x1F3BC; | &#x1F3BC; | &#x1F3BC; | 
 | <small>1F3B5</small><br>musical note<br>&#x1F3B5; | &#x1F3B5; | &#x1F3B5; | &#x1F3B5; | 
 | <small>1F3B6</small><br>musical notes<br>&#x1F3B6; | &#x1F3B6; | &#x1F3B6; | &#x1F3B6; | 
-| <small>1F399 FE0F</small><br>studio microphone<br>&#x1F399;&#xFE0F; |  | &#x1F399;&#xFE0F; | &#x1F399;&#xFE0F; | 
-| <small>1F39A FE0F</small><br>level slider<br>&#x1F39A;&#xFE0F; |  | &#x1F39A;&#xFE0F; | &#x1F39A;&#xFE0F; | 
-| <small>1F39B FE0F</small><br>control knobs<br>&#x1F39B;&#xFE0F; |  | &#x1F39B;&#xFE0F; | &#x1F39B;&#xFE0F; | 
+| <small>1F399 FE0F</small><br>studio microphone<br>&#x1F399;&#xFE0F; | &#x1F399;&#xFE0F; | &#x1F399;&#xFE0F; | &#x1F399;&#xFE0F; | 
+| <small>1F39A FE0F</small><br>level slider<br>&#x1F39A;&#xFE0F; | &#x1F39A;&#xFE0F; | &#x1F39A;&#xFE0F; | &#x1F39A;&#xFE0F; | 
+| <small>1F39B FE0F</small><br>control knobs<br>&#x1F39B;&#xFE0F; | &#x1F39B;&#xFE0F; | &#x1F39B;&#xFE0F; | &#x1F39B;&#xFE0F; | 
 | <small>1F3A4</small><br>microphone<br>&#x1F3A4; | &#x1F3A4; | &#x1F3A4; | &#x1F3A4; | 
 | <small>1F3A7</small><br>headphone<br>&#x1F3A7; | &#x1F3A7; | &#x1F3A7; | &#x1F3A7; | 
 | <small>1F4FB</small><br>radio<br>&#x1F4FB; | &#x1F4FB; | &#x1F4FB; | &#x1F4FB; | 
@@ -3032,7 +3034,7 @@ For more information about the images and fonts used, please refer to [the READM
 |:-:|:-:|:-:|:-:|
 | <small>1F4F1</small><br>mobile phone<br>&#x1F4F1; | &#x1F4F1; | &#x1F4F1; | &#x1F4F1; | 
 | <small>1F4F2</small><br>mobile phone with arrow<br>&#x1F4F2; | &#x1F4F2; | &#x1F4F2; | &#x1F4F2; | 
-| <small>260E FE0F</small><br>telephone<br>&#x260E;&#xFE0F; |  | &#x260E;&#xFE0F; | &#x260E;&#xFE0F; | 
+| <small>260E FE0F</small><br>telephone<br>&#x260E;&#xFE0F; | &#x260E;&#xFE0F; | &#x260E;&#xFE0F; | &#x260E;&#xFE0F; | 
 | <small>1F4DE</small><br>telephone receiver<br>&#x1F4DE; | &#x1F4DE; | &#x1F4DE; | &#x1F4DE; | 
 | <small>1F4DF</small><br>pager<br>&#x1F4DF; | &#x1F4DF; | &#x1F4DF; | &#x1F4DF; | 
 | <small>1F4E0</small><br>fax machine<br>&#x1F4E0; | &#x1F4E0; | &#x1F4E0; | &#x1F4E0; | 
@@ -3044,11 +3046,11 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F50B</small><br>battery<br>&#x1F50B; | &#x1F50B; | &#x1F50B; | &#x1F50B; | 
 | <small>1F50C</small><br>electric plug<br>&#x1F50C; | &#x1F50C; | &#x1F50C; | &#x1F50C; | 
 | <small>1F4BB</small><br>laptop<br>&#x1F4BB; | &#x1F4BB; | &#x1F4BB; | &#x1F4BB; | 
-| <small>1F5A5 FE0F</small><br>desktop computer<br>&#x1F5A5;&#xFE0F; |  | &#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | 
-| <small>1F5A8 FE0F</small><br>printer<br>&#x1F5A8;&#xFE0F; |  | &#x1F5A8;&#xFE0F; | &#x1F5A8;&#xFE0F; | 
-| <small>2328 FE0F</small><br>keyboard<br>&#x2328;&#xFE0F; |  | &#x2328;&#xFE0F; | &#x2328;&#xFE0F; | 
-| <small>1F5B1 FE0F</small><br>computer mouse<br>&#x1F5B1;&#xFE0F; |  | &#x1F5B1;&#xFE0F; | &#x1F5B1;&#xFE0F; | 
-| <small>1F5B2 FE0F</small><br>trackball<br>&#x1F5B2;&#xFE0F; |  | &#x1F5B2;&#xFE0F; | &#x1F5B2;&#xFE0F; | 
+| <small>1F5A5 FE0F</small><br>desktop computer<br>&#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | 
+| <small>1F5A8 FE0F</small><br>printer<br>&#x1F5A8;&#xFE0F; | &#x1F5A8;&#xFE0F; | &#x1F5A8;&#xFE0F; | &#x1F5A8;&#xFE0F; | 
+| <small>2328 FE0F</small><br>keyboard<br>&#x2328;&#xFE0F; | &#x2328;&#xFE0F; | &#x2328;&#xFE0F; | &#x2328;&#xFE0F; | 
+| <small>1F5B1 FE0F</small><br>computer mouse<br>&#x1F5B1;&#xFE0F; | &#x1F5B1;&#xFE0F; | &#x1F5B1;&#xFE0F; | &#x1F5B1;&#xFE0F; | 
+| <small>1F5B2 FE0F</small><br>trackball<br>&#x1F5B2;&#xFE0F; | &#x1F5B2;&#xFE0F; | &#x1F5B2;&#xFE0F; | &#x1F5B2;&#xFE0F; | 
 | <small>1F4BD</small><br>computer disk<br>&#x1F4BD; | &#x1F4BD; | &#x1F4BD; | &#x1F4BD; | 
 | <small>1F4BE</small><br>floppy disk<br>&#x1F4BE; | &#x1F4BE; | &#x1F4BE; | &#x1F4BE; | 
 | <small>1F4BF</small><br>optical disk<br>&#x1F4BF; | &#x1F4BF; | &#x1F4BF; | &#x1F4BF; | 
@@ -3060,8 +3062,8 @@ For more information about the images and fonts used, please refer to [the READM
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | <small>1F3A5</small><br>movie camera<br>&#x1F3A5; | &#x1F3A5; | &#x1F3A5; | &#x1F3A5; | 
-| <small>1F39E FE0F</small><br>film frames<br>&#x1F39E;&#xFE0F; |  | &#x1F39E;&#xFE0F; | &#x1F39E;&#xFE0F; | 
-| <small>1F4FD FE0F</small><br>film projector<br>&#x1F4FD;&#xFE0F; |  | &#x1F4FD;&#xFE0F; | &#x1F4FD;&#xFE0F; | 
+| <small>1F39E FE0F</small><br>film frames<br>&#x1F39E;&#xFE0F; | &#x1F39E;&#xFE0F; | &#x1F39E;&#xFE0F; | &#x1F39E;&#xFE0F; | 
+| <small>1F4FD FE0F</small><br>film projector<br>&#x1F4FD;&#xFE0F; | &#x1F4FD;&#xFE0F; | &#x1F4FD;&#xFE0F; | &#x1F4FD;&#xFE0F; | 
 | <small>1F3AC</small><br>clapper board<br>&#x1F3AC; | &#x1F3AC; | &#x1F3AC; | &#x1F3AC; | 
 | <small>1F4FA</small><br>television<br>&#x1F4FA; | &#x1F4FA; | &#x1F4FA; | &#x1F4FA; | 
 | <small>1F4F7</small><br>camera<br>&#x1F4F7; | &#x1F4F7; | &#x1F4F7; | &#x1F4F7; | 
@@ -3070,7 +3072,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F4FC</small><br>videocassette<br>&#x1F4FC; | &#x1F4FC; | &#x1F4FC; | &#x1F4FC; | 
 | <small>1F50D</small><br>magnifying glass tilted left<br>&#x1F50D; | &#x1F50D; | &#x1F50D; | &#x1F50D; | 
 | <small>1F50E</small><br>magnifying glass tilted right<br>&#x1F50E; | &#x1F50E; | &#x1F50E; | &#x1F50E; | 
-| <small>1F56F FE0F</small><br>candle<br>&#x1F56F;&#xFE0F; |  | &#x1F56F;&#xFE0F; | &#x1F56F;&#xFE0F; | 
+| <small>1F56F FE0F</small><br>candle<br>&#x1F56F;&#xFE0F; | &#x1F56F;&#xFE0F; | &#x1F56F;&#xFE0F; | &#x1F56F;&#xFE0F; | 
 | <small>1F4A1</small><br>light bulb<br>&#x1F4A1; | &#x1F4A1; | &#x1F4A1; | &#x1F4A1; | 
 | <small>1F526</small><br>flashlight<br>&#x1F526; | &#x1F526; | &#x1F526; | &#x1F526; | 
 | <small>1F3EE</small><br>red paper lantern<br>&#x1F3EE; | &#x1F3EE; | &#x1F3EE; | &#x1F3EE; | 
@@ -3093,10 +3095,10 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F4DC</small><br>scroll<br>&#x1F4DC; | &#x1F4DC; | &#x1F4DC; | &#x1F4DC; | 
 | <small>1F4C4</small><br>page facing up<br>&#x1F4C4; | &#x1F4C4; | &#x1F4C4; | &#x1F4C4; | 
 | <small>1F4F0</small><br>newspaper<br>&#x1F4F0; | &#x1F4F0; | &#x1F4F0; | &#x1F4F0; | 
-| <small>1F5DE FE0F</small><br>rolled-up newspaper<br>&#x1F5DE;&#xFE0F; |  | &#x1F5DE;&#xFE0F; | &#x1F5DE;&#xFE0F; | 
+| <small>1F5DE FE0F</small><br>rolled-up newspaper<br>&#x1F5DE;&#xFE0F; | &#x1F5DE;&#xFE0F; | &#x1F5DE;&#xFE0F; | &#x1F5DE;&#xFE0F; | 
 | <small>1F4D1</small><br>bookmark tabs<br>&#x1F4D1; | &#x1F4D1; | &#x1F4D1; | &#x1F4D1; | 
 | <small>1F516</small><br>bookmark<br>&#x1F516; | &#x1F516; | &#x1F516; | &#x1F516; | 
-| <small>1F3F7 FE0F</small><br>label<br>&#x1F3F7;&#xFE0F; |  | &#x1F3F7;&#xFE0F; | &#x1F3F7;&#xFE0F; | 
+| <small>1F3F7 FE0F</small><br>label<br>&#x1F3F7;&#xFE0F; | &#x1F3F7;&#xFE0F; | &#x1F3F7;&#xFE0F; | &#x1F3F7;&#xFE0F; | 
 
 #### money
 
@@ -3117,7 +3119,7 @@ For more information about the images and fonts used, please refer to [the READM
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>2709 FE0F</small><br>envelope<br>&#x2709;&#xFE0F; |  | &#x2709;&#xFE0F; | &#x2709;&#xFE0F; | 
+| <small>2709 FE0F</small><br>envelope<br>&#x2709;&#xFE0F; | &#x2709;&#xFE0F; | &#x2709;&#xFE0F; | &#x2709;&#xFE0F; | 
 | <small>1F4E7</small><br>e-mail<br>&#x1F4E7; | &#x1F4E7; | &#x1F4E7; | &#x1F4E7; | 
 | <small>1F4E8</small><br>incoming envelope<br>&#x1F4E8; | &#x1F4E8; | &#x1F4E8; | &#x1F4E8; | 
 | <small>1F4E9</small><br>envelope with arrow<br>&#x1F4E9; | &#x1F4E9; | &#x1F4E9; | &#x1F4E9; | 
@@ -3129,18 +3131,18 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F4EC</small><br>open mailbox with raised flag<br>&#x1F4EC; | &#x1F4EC; | &#x1F4EC; | &#x1F4EC; | 
 | <small>1F4ED</small><br>open mailbox with lowered flag<br>&#x1F4ED; | &#x1F4ED; | &#x1F4ED; | &#x1F4ED; | 
 | <small>1F4EE</small><br>postbox<br>&#x1F4EE; | &#x1F4EE; | &#x1F4EE; | &#x1F4EE; | 
-| <small>1F5F3 FE0F</small><br>ballot box with ballot<br>&#x1F5F3;&#xFE0F; |  | &#x1F5F3;&#xFE0F; | &#x1F5F3;&#xFE0F; | 
+| <small>1F5F3 FE0F</small><br>ballot box with ballot<br>&#x1F5F3;&#xFE0F; | &#x1F5F3;&#xFE0F; | &#x1F5F3;&#xFE0F; | &#x1F5F3;&#xFE0F; | 
 
 #### writing
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>270F FE0F</small><br>pencil<br>&#x270F;&#xFE0F; |  | &#x270F;&#xFE0F; | &#x270F;&#xFE0F; | 
-| <small>2712 FE0F</small><br>black nib<br>&#x2712;&#xFE0F; |  | &#x2712;&#xFE0F; | &#x2712;&#xFE0F; | 
-| <small>1F58B FE0F</small><br>fountain pen<br>&#x1F58B;&#xFE0F; |  | &#x1F58B;&#xFE0F; | &#x1F58B;&#xFE0F; | 
-| <small>1F58A FE0F</small><br>pen<br>&#x1F58A;&#xFE0F; |  | &#x1F58A;&#xFE0F; | &#x1F58A;&#xFE0F; | 
-| <small>1F58C FE0F</small><br>paintbrush<br>&#x1F58C;&#xFE0F; |  | &#x1F58C;&#xFE0F; | &#x1F58C;&#xFE0F; | 
-| <small>1F58D FE0F</small><br>crayon<br>&#x1F58D;&#xFE0F; |  | &#x1F58D;&#xFE0F; | &#x1F58D;&#xFE0F; | 
+| <small>270F FE0F</small><br>pencil<br>&#x270F;&#xFE0F; | &#x270F;&#xFE0F; | &#x270F;&#xFE0F; | &#x270F;&#xFE0F; | 
+| <small>2712 FE0F</small><br>black nib<br>&#x2712;&#xFE0F; | &#x2712;&#xFE0F; | &#x2712;&#xFE0F; | &#x2712;&#xFE0F; | 
+| <small>1F58B FE0F</small><br>fountain pen<br>&#x1F58B;&#xFE0F; | &#x1F58B;&#xFE0F; | &#x1F58B;&#xFE0F; | &#x1F58B;&#xFE0F; | 
+| <small>1F58A FE0F</small><br>pen<br>&#x1F58A;&#xFE0F; | &#x1F58A;&#xFE0F; | &#x1F58A;&#xFE0F; | &#x1F58A;&#xFE0F; | 
+| <small>1F58C FE0F</small><br>paintbrush<br>&#x1F58C;&#xFE0F; | &#x1F58C;&#xFE0F; | &#x1F58C;&#xFE0F; | &#x1F58C;&#xFE0F; | 
+| <small>1F58D FE0F</small><br>crayon<br>&#x1F58D;&#xFE0F; | &#x1F58D;&#xFE0F; | &#x1F58D;&#xFE0F; | &#x1F58D;&#xFE0F; | 
 | <small>1F4DD</small><br>memo<br>&#x1F4DD; | &#x1F4DD; | &#x1F4DD; | &#x1F4DD; | 
 
 #### office
@@ -3150,11 +3152,11 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F4BC</small><br>briefcase<br>&#x1F4BC; | &#x1F4BC; | &#x1F4BC; | &#x1F4BC; | 
 | <small>1F4C1</small><br>file folder<br>&#x1F4C1; | &#x1F4C1; | &#x1F4C1; | &#x1F4C1; | 
 | <small>1F4C2</small><br>open file folder<br>&#x1F4C2; | &#x1F4C2; | &#x1F4C2; | &#x1F4C2; | 
-| <small>1F5C2 FE0F</small><br>card index dividers<br>&#x1F5C2;&#xFE0F; |  | &#x1F5C2;&#xFE0F; | &#x1F5C2;&#xFE0F; | 
+| <small>1F5C2 FE0F</small><br>card index dividers<br>&#x1F5C2;&#xFE0F; | &#x1F5C2;&#xFE0F; | &#x1F5C2;&#xFE0F; | &#x1F5C2;&#xFE0F; | 
 | <small>1F4C5</small><br>calendar<br>&#x1F4C5; | &#x1F4C5; | &#x1F4C5; | &#x1F4C5; | 
 | <small>1F4C6</small><br>tear-off calendar<br>&#x1F4C6; | &#x1F4C6; | &#x1F4C6; | &#x1F4C6; | 
-| <small>1F5D2 FE0F</small><br>spiral notepad<br>&#x1F5D2;&#xFE0F; |  | &#x1F5D2;&#xFE0F; | &#x1F5D2;&#xFE0F; | 
-| <small>1F5D3 FE0F</small><br>spiral calendar<br>&#x1F5D3;&#xFE0F; |  | &#x1F5D3;&#xFE0F; | &#x1F5D3;&#xFE0F; | 
+| <small>1F5D2 FE0F</small><br>spiral notepad<br>&#x1F5D2;&#xFE0F; | &#x1F5D2;&#xFE0F; | &#x1F5D2;&#xFE0F; | &#x1F5D2;&#xFE0F; | 
+| <small>1F5D3 FE0F</small><br>spiral calendar<br>&#x1F5D3;&#xFE0F; | &#x1F5D3;&#xFE0F; | &#x1F5D3;&#xFE0F; | &#x1F5D3;&#xFE0F; | 
 | <small>1F4C7</small><br>card index<br>&#x1F4C7; | &#x1F4C7; | &#x1F4C7; | &#x1F4C7; | 
 | <small>1F4C8</small><br>chart increasing<br>&#x1F4C8; | &#x1F4C8; | &#x1F4C8; | &#x1F4C8; | 
 | <small>1F4C9</small><br>chart decreasing<br>&#x1F4C9; | &#x1F4C9; | &#x1F4C9; | &#x1F4C9; | 
@@ -3163,13 +3165,13 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F4CC</small><br>pushpin<br>&#x1F4CC; | &#x1F4CC; | &#x1F4CC; | &#x1F4CC; | 
 | <small>1F4CD</small><br>round pushpin<br>&#x1F4CD; | &#x1F4CD; | &#x1F4CD; | &#x1F4CD; | 
 | <small>1F4CE</small><br>paperclip<br>&#x1F4CE; | &#x1F4CE; | &#x1F4CE; | &#x1F4CE; | 
-| <small>1F587 FE0F</small><br>linked paperclips<br>&#x1F587;&#xFE0F; |  | &#x1F587;&#xFE0F; | &#x1F587;&#xFE0F; | 
+| <small>1F587 FE0F</small><br>linked paperclips<br>&#x1F587;&#xFE0F; | &#x1F587;&#xFE0F; | &#x1F587;&#xFE0F; | &#x1F587;&#xFE0F; | 
 | <small>1F4CF</small><br>straight ruler<br>&#x1F4CF; | &#x1F4CF; | &#x1F4CF; | &#x1F4CF; | 
 | <small>1F4D0</small><br>triangular ruler<br>&#x1F4D0; | &#x1F4D0; | &#x1F4D0; | &#x1F4D0; | 
-| <small>2702 FE0F</small><br>scissors<br>&#x2702;&#xFE0F; |  | &#x2702;&#xFE0F; | &#x2702;&#xFE0F; | 
-| <small>1F5C3 FE0F</small><br>card file box<br>&#x1F5C3;&#xFE0F; |  | &#x1F5C3;&#xFE0F; | &#x1F5C3;&#xFE0F; | 
-| <small>1F5C4 FE0F</small><br>file cabinet<br>&#x1F5C4;&#xFE0F; |  | &#x1F5C4;&#xFE0F; | &#x1F5C4;&#xFE0F; | 
-| <small>1F5D1 FE0F</small><br>wastebasket<br>&#x1F5D1;&#xFE0F; |  | &#x1F5D1;&#xFE0F; | &#x1F5D1;&#xFE0F; | 
+| <small>2702 FE0F</small><br>scissors<br>&#x2702;&#xFE0F; | &#x2702;&#xFE0F; | &#x2702;&#xFE0F; | &#x2702;&#xFE0F; | 
+| <small>1F5C3 FE0F</small><br>card file box<br>&#x1F5C3;&#xFE0F; | &#x1F5C3;&#xFE0F; | &#x1F5C3;&#xFE0F; | &#x1F5C3;&#xFE0F; | 
+| <small>1F5C4 FE0F</small><br>file cabinet<br>&#x1F5C4;&#xFE0F; | &#x1F5C4;&#xFE0F; | &#x1F5C4;&#xFE0F; | &#x1F5C4;&#xFE0F; | 
+| <small>1F5D1 FE0F</small><br>wastebasket<br>&#x1F5D1;&#xFE0F; | &#x1F5D1;&#xFE0F; | &#x1F5D1;&#xFE0F; | &#x1F5D1;&#xFE0F; | 
 
 #### lock
 
@@ -3180,7 +3182,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F50F</small><br>locked with pen<br>&#x1F50F; | &#x1F50F; | &#x1F50F; | &#x1F50F; | 
 | <small>1F510</small><br>locked with key<br>&#x1F510; | &#x1F510; | &#x1F510; | &#x1F510; | 
 | <small>1F511</small><br>key<br>&#x1F511; | &#x1F511; | &#x1F511; | &#x1F511; | 
-| <small>1F5DD FE0F</small><br>old key<br>&#x1F5DD;&#xFE0F; |  | &#x1F5DD;&#xFE0F; | &#x1F5DD;&#xFE0F; | 
+| <small>1F5DD FE0F</small><br>old key<br>&#x1F5DD;&#xFE0F; | &#x1F5DD;&#xFE0F; | &#x1F5DD;&#xFE0F; | &#x1F5DD;&#xFE0F; | 
 
 #### tool
 
@@ -3188,25 +3190,25 @@ For more information about the images and fonts used, please refer to [the READM
 |:-:|:-:|:-:|:-:|
 | <small>1F528</small><br>hammer<br>&#x1F528; | &#x1F528; | &#x1F528; | &#x1F528; | 
 | <small>1FA93</small><br>axe<br>&#x1FA93; |  | &#x1FA93; | &#x1FA93; | 
-| <small>26CF FE0F</small><br>pick<br>&#x26CF;&#xFE0F; |  | &#x26CF;&#xFE0F; | &#x26CF;&#xFE0F; | 
-| <small>2692 FE0F</small><br>hammer and pick<br>&#x2692;&#xFE0F; |  | &#x2692;&#xFE0F; | &#x2692;&#xFE0F; | 
-| <small>1F6E0 FE0F</small><br>hammer and wrench<br>&#x1F6E0;&#xFE0F; |  | &#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | 
-| <small>1F5E1 FE0F</small><br>dagger<br>&#x1F5E1;&#xFE0F; |  | &#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | 
-| <small>2694 FE0F</small><br>crossed swords<br>&#x2694;&#xFE0F; |  | &#x2694;&#xFE0F; | &#x2694;&#xFE0F; | 
+| <small>26CF FE0F</small><br>pick<br>&#x26CF;&#xFE0F; | &#x26CF;&#xFE0F; | &#x26CF;&#xFE0F; | &#x26CF;&#xFE0F; | 
+| <small>2692 FE0F</small><br>hammer and pick<br>&#x2692;&#xFE0F; | &#x2692;&#xFE0F; | &#x2692;&#xFE0F; | &#x2692;&#xFE0F; | 
+| <small>1F6E0 FE0F</small><br>hammer and wrench<br>&#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | 
+| <small>1F5E1 FE0F</small><br>dagger<br>&#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | 
+| <small>2694 FE0F</small><br>crossed swords<br>&#x2694;&#xFE0F; | &#x2694;&#xFE0F; | &#x2694;&#xFE0F; | &#x2694;&#xFE0F; | 
 | <small>1F52B</small><br>pistol<br>&#x1F52B; | &#x1F52B; | &#x1F52B; | &#x1F52B; | 
 | <small>1FA83</small><br>boomerang<br>&#x1FA83; |  | &#x1FA83; | &#x1FA83; | 
 | <small>1F3F9</small><br>bow and arrow<br>&#x1F3F9; | &#x1F3F9; | &#x1F3F9; | &#x1F3F9; | 
-| <small>1F6E1 FE0F</small><br>shield<br>&#x1F6E1;&#xFE0F; |  | &#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | 
+| <small>1F6E1 FE0F</small><br>shield<br>&#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | 
 | <small>1FA9A</small><br>carpentry saw<br>&#x1FA9A; |  | &#x1FA9A; | &#x1FA9A; | 
 | <small>1F527</small><br>wrench<br>&#x1F527; | &#x1F527; | &#x1F527; | &#x1F527; | 
 | <small>1FA9B</small><br>screwdriver<br>&#x1FA9B; |  | &#x1FA9B; | &#x1FA9B; | 
 | <small>1F529</small><br>nut and bolt<br>&#x1F529; | &#x1F529; | &#x1F529; | &#x1F529; | 
-| <small>2699 FE0F</small><br>gear<br>&#x2699;&#xFE0F; |  | &#x2699;&#xFE0F; | &#x2699;&#xFE0F; | 
-| <small>1F5DC FE0F</small><br>clamp<br>&#x1F5DC;&#xFE0F; |  | &#x1F5DC;&#xFE0F; | &#x1F5DC;&#xFE0F; | 
-| <small>2696 FE0F</small><br>balance scale<br>&#x2696;&#xFE0F; |  | &#x2696;&#xFE0F; | &#x2696;&#xFE0F; | 
+| <small>2699 FE0F</small><br>gear<br>&#x2699;&#xFE0F; | &#x2699;&#xFE0F; | &#x2699;&#xFE0F; | &#x2699;&#xFE0F; | 
+| <small>1F5DC FE0F</small><br>clamp<br>&#x1F5DC;&#xFE0F; | &#x1F5DC;&#xFE0F; | &#x1F5DC;&#xFE0F; | &#x1F5DC;&#xFE0F; | 
+| <small>2696 FE0F</small><br>balance scale<br>&#x2696;&#xFE0F; | &#x2696;&#xFE0F; | &#x2696;&#xFE0F; | &#x2696;&#xFE0F; | 
 | <small>1F9AF</small><br>white cane<br>&#x1F9AF; |  | &#x1F9AF; | &#x1F9AF; | 
 | <small>1F517</small><br>link<br>&#x1F517; | &#x1F517; | &#x1F517; | &#x1F517; | 
-| <small>26D3 FE0F</small><br>chains<br>&#x26D3;&#xFE0F; |  | &#x26D3;&#xFE0F; | &#x26D3;&#xFE0F; | 
+| <small>26D3 FE0F</small><br>chains<br>&#x26D3;&#xFE0F; | &#x26D3;&#xFE0F; | &#x26D3;&#xFE0F; | &#x26D3;&#xFE0F; | 
 | <small>1FA9D</small><br>hook<br>&#x1FA9D; |  | &#x1FA9D; | &#x1FA9D; | 
 | <small>1F9F0</small><br>toolbox<br>&#x1F9F0; |  | &#x1F9F0; | &#x1F9F0; | 
 | <small>1F9F2</small><br>magnet<br>&#x1F9F2; |  | &#x1F9F2; | &#x1F9F2; | 
@@ -3216,7 +3218,7 @@ For more information about the images and fonts used, please refer to [the READM
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>2697 FE0F</small><br>alembic<br>&#x2697;&#xFE0F; |  | &#x2697;&#xFE0F; | &#x2697;&#xFE0F; | 
+| <small>2697 FE0F</small><br>alembic<br>&#x2697;&#xFE0F; | &#x2697;&#xFE0F; | &#x2697;&#xFE0F; | &#x2697;&#xFE0F; | 
 | <small>1F9EA</small><br>test tube<br>&#x1F9EA; |  | &#x1F9EA; | &#x1F9EA; | 
 | <small>1F9EB</small><br>petri dish<br>&#x1F9EB; |  | &#x1F9EB; | &#x1F9EB; | 
 | <small>1F9EC</small><br>dna<br>&#x1F9EC; |  | &#x1F9EC; | &#x1F9EC; | 
@@ -3242,8 +3244,8 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F6D7</small><br>elevator<br>&#x1F6D7; |  | &#x1F6D7; | &#x1F6D7; | 
 | <small>1FA9E</small><br>mirror<br>&#x1FA9E; |  | &#x1FA9E; | &#x1FA9E; | 
 | <small>1FA9F</small><br>window<br>&#x1FA9F; |  | &#x1FA9F; | &#x1FA9F; | 
-| <small>1F6CF FE0F</small><br>bed<br>&#x1F6CF;&#xFE0F; |  | &#x1F6CF;&#xFE0F; | &#x1F6CF;&#xFE0F; | 
-| <small>1F6CB FE0F</small><br>couch and lamp<br>&#x1F6CB;&#xFE0F; |  | &#x1F6CB;&#xFE0F; | &#x1F6CB;&#xFE0F; | 
+| <small>1F6CF FE0F</small><br>bed<br>&#x1F6CF;&#xFE0F; | &#x1F6CF;&#xFE0F; | &#x1F6CF;&#xFE0F; | &#x1F6CF;&#xFE0F; | 
+| <small>1F6CB FE0F</small><br>couch and lamp<br>&#x1F6CB;&#xFE0F; | &#x1F6CB;&#xFE0F; | &#x1F6CB;&#xFE0F; | &#x1F6CB;&#xFE0F; | 
 | <small>1FA91</small><br>chair<br>&#x1FA91; |  | &#x1FA91; | &#x1FA91; | 
 | <small>1F6BD</small><br>toilet<br>&#x1F6BD; | &#x1F6BD; | &#x1F6BD; | &#x1F6BD; | 
 | <small>1FAA0</small><br>plunger<br>&#x1FAA0; |  | &#x1FAA0; | &#x1FAA0; | 
@@ -3268,9 +3270,9 @@ For more information about the images and fonts used, please refer to [the READM
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | <small>1F6AC</small><br>cigarette<br>&#x1F6AC; | &#x1F6AC; | &#x1F6AC; | &#x1F6AC; | 
-| <small>26B0 FE0F</small><br>coffin<br>&#x26B0;&#xFE0F; |  | &#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | 
+| <small>26B0 FE0F</small><br>coffin<br>&#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | 
 | <small>1FAA6</small><br>headstone<br>&#x1FAA6; |  | &#x1FAA6; | &#x1FAA6; | 
-| <small>26B1 FE0F</small><br>funeral urn<br>&#x26B1;&#xFE0F; |  | &#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | 
+| <small>26B1 FE0F</small><br>funeral urn<br>&#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | 
 | <small>1F5FF</small><br>moai<br>&#x1F5FF; | &#x1F5FF; | &#x1F5FF; | &#x1F5FF; | 
 | <small>1FAA7</small><br>placard<br>&#x1FAA7; |  | &#x1FAA7; | &#x1FAA7; | 
 
@@ -3299,7 +3301,7 @@ For more information about the images and fonts used, please refer to [the READM
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>26A0 FE0F</small><br>warning<br>&#x26A0;&#xFE0F; |  | &#x26A0;&#xFE0F; | &#x26A0;&#xFE0F; | 
+| <small>26A0 FE0F</small><br>warning<br>&#x26A0;&#xFE0F; | &#x26A0;&#xFE0F; | &#x26A0;&#xFE0F; | &#x26A0;&#xFE0F; | 
 | <small>1F6B8</small><br>children crossing<br>&#x1F6B8; | &#x1F6B8; | &#x1F6B8; | &#x1F6B8; | 
 | <small>26D4</small><br>no entry<br>&#x26D4; | &#x26D4; | &#x26D4; | &#x26D4; | 
 | <small>1F6AB</small><br>prohibited<br>&#x1F6AB; | &#x1F6AB; | &#x1F6AB; | &#x1F6AB; | 
@@ -3310,27 +3312,27 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F6B7</small><br>no pedestrians<br>&#x1F6B7; | &#x1F6B7; | &#x1F6B7; | &#x1F6B7; | 
 | <small>1F4F5</small><br>no mobile phones<br>&#x1F4F5; | &#x1F4F5; | &#x1F4F5; | &#x1F4F5; | 
 | <small>1F51E</small><br>no one under eighteen<br>&#x1F51E; | &#x1F51E; | &#x1F51E; | &#x1F51E; | 
-| <small>2622 FE0F</small><br>radioactive<br>&#x2622;&#xFE0F; |  | &#x2622;&#xFE0F; | &#x2622;&#xFE0F; | 
-| <small>2623 FE0F</small><br>biohazard<br>&#x2623;&#xFE0F; |  | &#x2623;&#xFE0F; | &#x2623;&#xFE0F; | 
+| <small>2622 FE0F</small><br>radioactive<br>&#x2622;&#xFE0F; | &#x2622;&#xFE0F; | &#x2622;&#xFE0F; | &#x2622;&#xFE0F; | 
+| <small>2623 FE0F</small><br>biohazard<br>&#x2623;&#xFE0F; | &#x2623;&#xFE0F; | &#x2623;&#xFE0F; | &#x2623;&#xFE0F; | 
 
 #### arrow
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>2B06 FE0F</small><br>up arrow<br>&#x2B06;&#xFE0F; |  | &#x2B06;&#xFE0F; | &#x2B06;&#xFE0F; | 
-| <small>2197 FE0F</small><br>up-right arrow<br>&#x2197;&#xFE0F; |  | &#x2197;&#xFE0F; | &#x2197;&#xFE0F; | 
-| <small>27A1 FE0F</small><br>right arrow<br>&#x27A1;&#xFE0F; |  | &#x27A1;&#xFE0F; | &#x27A1;&#xFE0F; | 
-| <small>2198 FE0F</small><br>down-right arrow<br>&#x2198;&#xFE0F; |  | &#x2198;&#xFE0F; | &#x2198;&#xFE0F; | 
-| <small>2B07 FE0F</small><br>down arrow<br>&#x2B07;&#xFE0F; |  | &#x2B07;&#xFE0F; | &#x2B07;&#xFE0F; | 
-| <small>2199 FE0F</small><br>down-left arrow<br>&#x2199;&#xFE0F; |  | &#x2199;&#xFE0F; | &#x2199;&#xFE0F; | 
-| <small>2B05 FE0F</small><br>left arrow<br>&#x2B05;&#xFE0F; |  | &#x2B05;&#xFE0F; | &#x2B05;&#xFE0F; | 
-| <small>2196 FE0F</small><br>up-left arrow<br>&#x2196;&#xFE0F; |  | &#x2196;&#xFE0F; | &#x2196;&#xFE0F; | 
-| <small>2195 FE0F</small><br>up-down arrow<br>&#x2195;&#xFE0F; |  | &#x2195;&#xFE0F; | &#x2195;&#xFE0F; | 
-| <small>2194 FE0F</small><br>left-right arrow<br>&#x2194;&#xFE0F; |  | &#x2194;&#xFE0F; | &#x2194;&#xFE0F; | 
-| <small>21A9 FE0F</small><br>right arrow curving left<br>&#x21A9;&#xFE0F; |  | &#x21A9;&#xFE0F; | &#x21A9;&#xFE0F; | 
-| <small>21AA FE0F</small><br>left arrow curving right<br>&#x21AA;&#xFE0F; |  | &#x21AA;&#xFE0F; | &#x21AA;&#xFE0F; | 
-| <small>2934 FE0F</small><br>right arrow curving up<br>&#x2934;&#xFE0F; |  | &#x2934;&#xFE0F; | &#x2934;&#xFE0F; | 
-| <small>2935 FE0F</small><br>right arrow curving down<br>&#x2935;&#xFE0F; |  | &#x2935;&#xFE0F; | &#x2935;&#xFE0F; | 
+| <small>2B06 FE0F</small><br>up arrow<br>&#x2B06;&#xFE0F; | &#x2B06;&#xFE0F; | &#x2B06;&#xFE0F; | &#x2B06;&#xFE0F; | 
+| <small>2197 FE0F</small><br>up-right arrow<br>&#x2197;&#xFE0F; | &#x2197;&#xFE0F; | &#x2197;&#xFE0F; | &#x2197;&#xFE0F; | 
+| <small>27A1 FE0F</small><br>right arrow<br>&#x27A1;&#xFE0F; | &#x27A1;&#xFE0F; | &#x27A1;&#xFE0F; | &#x27A1;&#xFE0F; | 
+| <small>2198 FE0F</small><br>down-right arrow<br>&#x2198;&#xFE0F; | &#x2198;&#xFE0F; | &#x2198;&#xFE0F; | &#x2198;&#xFE0F; | 
+| <small>2B07 FE0F</small><br>down arrow<br>&#x2B07;&#xFE0F; | &#x2B07;&#xFE0F; | &#x2B07;&#xFE0F; | &#x2B07;&#xFE0F; | 
+| <small>2199 FE0F</small><br>down-left arrow<br>&#x2199;&#xFE0F; | &#x2199;&#xFE0F; | &#x2199;&#xFE0F; | &#x2199;&#xFE0F; | 
+| <small>2B05 FE0F</small><br>left arrow<br>&#x2B05;&#xFE0F; | &#x2B05;&#xFE0F; | &#x2B05;&#xFE0F; | &#x2B05;&#xFE0F; | 
+| <small>2196 FE0F</small><br>up-left arrow<br>&#x2196;&#xFE0F; | &#x2196;&#xFE0F; | &#x2196;&#xFE0F; | &#x2196;&#xFE0F; | 
+| <small>2195 FE0F</small><br>up-down arrow<br>&#x2195;&#xFE0F; | &#x2195;&#xFE0F; | &#x2195;&#xFE0F; | &#x2195;&#xFE0F; | 
+| <small>2194 FE0F</small><br>left-right arrow<br>&#x2194;&#xFE0F; | &#x2194;&#xFE0F; | &#x2194;&#xFE0F; | &#x2194;&#xFE0F; | 
+| <small>21A9 FE0F</small><br>right arrow curving left<br>&#x21A9;&#xFE0F; | &#x21A9;&#xFE0F; | &#x21A9;&#xFE0F; | &#x21A9;&#xFE0F; | 
+| <small>21AA FE0F</small><br>left arrow curving right<br>&#x21AA;&#xFE0F; | &#x21AA;&#xFE0F; | &#x21AA;&#xFE0F; | &#x21AA;&#xFE0F; | 
+| <small>2934 FE0F</small><br>right arrow curving up<br>&#x2934;&#xFE0F; | &#x2934;&#xFE0F; | &#x2934;&#xFE0F; | &#x2934;&#xFE0F; | 
+| <small>2935 FE0F</small><br>right arrow curving down<br>&#x2935;&#xFE0F; | &#x2935;&#xFE0F; | &#x2935;&#xFE0F; | &#x2935;&#xFE0F; | 
 | <small>1F503</small><br>clockwise vertical arrows<br>&#x1F503; | &#x1F503; | &#x1F503; | &#x1F503; | 
 | <small>1F504</small><br>counterclockwise arrows button<br>&#x1F504; | &#x1F504; | &#x1F504; | &#x1F504; | 
 | <small>1F519</small><br>BACK arrow<br>&#x1F519; | &#x1F519; | &#x1F519; | &#x1F519; | 
@@ -3344,15 +3346,15 @@ For more information about the images and fonts used, please refer to [the READM
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | <small>1F6D0</small><br>place of worship<br>&#x1F6D0; | &#x1F6D0; | &#x1F6D0; | &#x1F6D0; | 
-| <small>269B FE0F</small><br>atom symbol<br>&#x269B;&#xFE0F; |  | &#x269B;&#xFE0F; | &#x269B;&#xFE0F; | 
-| <small>1F549 FE0F</small><br>om<br>&#x1F549;&#xFE0F; |  | &#x1F549;&#xFE0F; | &#x1F549;&#xFE0F; | 
-| <small>2721 FE0F</small><br>star of David<br>&#x2721;&#xFE0F; |  | &#x2721;&#xFE0F; | &#x2721;&#xFE0F; | 
-| <small>2638 FE0F</small><br>wheel of dharma<br>&#x2638;&#xFE0F; |  | &#x2638;&#xFE0F; | &#x2638;&#xFE0F; | 
-| <small>262F FE0F</small><br>yin yang<br>&#x262F;&#xFE0F; |  | &#x262F;&#xFE0F; | &#x262F;&#xFE0F; | 
-| <small>271D FE0F</small><br>latin cross<br>&#x271D;&#xFE0F; |  | &#x271D;&#xFE0F; | &#x271D;&#xFE0F; | 
-| <small>2626 FE0F</small><br>orthodox cross<br>&#x2626;&#xFE0F; |  | &#x2626;&#xFE0F; | &#x2626;&#xFE0F; | 
-| <small>262A FE0F</small><br>star and crescent<br>&#x262A;&#xFE0F; |  | &#x262A;&#xFE0F; | &#x262A;&#xFE0F; | 
-| <small>262E FE0F</small><br>peace symbol<br>&#x262E;&#xFE0F; |  | &#x262E;&#xFE0F; | &#x262E;&#xFE0F; | 
+| <small>269B FE0F</small><br>atom symbol<br>&#x269B;&#xFE0F; | &#x269B;&#xFE0F; | &#x269B;&#xFE0F; | &#x269B;&#xFE0F; | 
+| <small>1F549 FE0F</small><br>om<br>&#x1F549;&#xFE0F; | &#x1F549;&#xFE0F; | &#x1F549;&#xFE0F; | &#x1F549;&#xFE0F; | 
+| <small>2721 FE0F</small><br>star of David<br>&#x2721;&#xFE0F; | &#x2721;&#xFE0F; | &#x2721;&#xFE0F; | &#x2721;&#xFE0F; | 
+| <small>2638 FE0F</small><br>wheel of dharma<br>&#x2638;&#xFE0F; | &#x2638;&#xFE0F; | &#x2638;&#xFE0F; | &#x2638;&#xFE0F; | 
+| <small>262F FE0F</small><br>yin yang<br>&#x262F;&#xFE0F; | &#x262F;&#xFE0F; | &#x262F;&#xFE0F; | &#x262F;&#xFE0F; | 
+| <small>271D FE0F</small><br>latin cross<br>&#x271D;&#xFE0F; | &#x271D;&#xFE0F; | &#x271D;&#xFE0F; | &#x271D;&#xFE0F; | 
+| <small>2626 FE0F</small><br>orthodox cross<br>&#x2626;&#xFE0F; | &#x2626;&#xFE0F; | &#x2626;&#xFE0F; | &#x2626;&#xFE0F; | 
+| <small>262A FE0F</small><br>star and crescent<br>&#x262A;&#xFE0F; | &#x262A;&#xFE0F; | &#x262A;&#xFE0F; | &#x262A;&#xFE0F; | 
+| <small>262E FE0F</small><br>peace symbol<br>&#x262E;&#xFE0F; | &#x262E;&#xFE0F; | &#x262E;&#xFE0F; | &#x262E;&#xFE0F; | 
 | <small>1F54E</small><br>menorah<br>&#x1F54E; | &#x1F54E; | &#x1F54E; | &#x1F54E; | 
 | <small>1F52F</small><br>dotted six-pointed star<br>&#x1F52F; | &#x1F52F; | &#x1F52F; | &#x1F52F; | 
 
@@ -3381,21 +3383,21 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F500</small><br>shuffle tracks button<br>&#x1F500; | &#x1F500; | &#x1F500; | &#x1F500; | 
 | <small>1F501</small><br>repeat button<br>&#x1F501; | &#x1F501; | &#x1F501; | &#x1F501; | 
 | <small>1F502</small><br>repeat single button<br>&#x1F502; | &#x1F502; | &#x1F502; | &#x1F502; | 
-| <small>25B6 FE0F</small><br>play button<br>&#x25B6;&#xFE0F; |  | &#x25B6;&#xFE0F; | &#x25B6;&#xFE0F; | 
+| <small>25B6 FE0F</small><br>play button<br>&#x25B6;&#xFE0F; | &#x25B6;&#xFE0F; | &#x25B6;&#xFE0F; | &#x25B6;&#xFE0F; | 
 | <small>23E9</small><br>fast-forward button<br>&#x23E9; | &#x23E9; | &#x23E9; | &#x23E9; | 
-| <small>23ED FE0F</small><br>next track button<br>&#x23ED;&#xFE0F; |  | &#x23ED;&#xFE0F; | &#x23ED;&#xFE0F; | 
-| <small>23EF FE0F</small><br>play or pause button<br>&#x23EF;&#xFE0F; |  | &#x23EF;&#xFE0F; | &#x23EF;&#xFE0F; | 
-| <small>25C0 FE0F</small><br>reverse button<br>&#x25C0;&#xFE0F; |  | &#x25C0;&#xFE0F; | &#x25C0;&#xFE0F; | 
+| <small>23ED FE0F</small><br>next track button<br>&#x23ED;&#xFE0F; | &#x23ED;&#xFE0F; | &#x23ED;&#xFE0F; | &#x23ED;&#xFE0F; | 
+| <small>23EF FE0F</small><br>play or pause button<br>&#x23EF;&#xFE0F; | &#x23EF;&#xFE0F; | &#x23EF;&#xFE0F; | &#x23EF;&#xFE0F; | 
+| <small>25C0 FE0F</small><br>reverse button<br>&#x25C0;&#xFE0F; | &#x25C0;&#xFE0F; | &#x25C0;&#xFE0F; | &#x25C0;&#xFE0F; | 
 | <small>23EA</small><br>fast reverse button<br>&#x23EA; | &#x23EA; | &#x23EA; | &#x23EA; | 
-| <small>23EE FE0F</small><br>last track button<br>&#x23EE;&#xFE0F; |  | &#x23EE;&#xFE0F; | &#x23EE;&#xFE0F; | 
+| <small>23EE FE0F</small><br>last track button<br>&#x23EE;&#xFE0F; | &#x23EE;&#xFE0F; | &#x23EE;&#xFE0F; | &#x23EE;&#xFE0F; | 
 | <small>1F53C</small><br>upwards button<br>&#x1F53C; | &#x1F53C; | &#x1F53C; | &#x1F53C; | 
 | <small>23EB</small><br>fast up button<br>&#x23EB; | &#x23EB; | &#x23EB; | &#x23EB; | 
 | <small>1F53D</small><br>downwards button<br>&#x1F53D; | &#x1F53D; | &#x1F53D; | &#x1F53D; | 
 | <small>23EC</small><br>fast down button<br>&#x23EC; | &#x23EC; | &#x23EC; | &#x23EC; | 
-| <small>23F8 FE0F</small><br>pause button<br>&#x23F8;&#xFE0F; |  | &#x23F8;&#xFE0F; | &#x23F8;&#xFE0F; | 
-| <small>23F9 FE0F</small><br>stop button<br>&#x23F9;&#xFE0F; |  | &#x23F9;&#xFE0F; | &#x23F9;&#xFE0F; | 
-| <small>23FA FE0F</small><br>record button<br>&#x23FA;&#xFE0F; |  | &#x23FA;&#xFE0F; | &#x23FA;&#xFE0F; | 
-| <small>23CF FE0F</small><br>eject button<br>&#x23CF;&#xFE0F; |  | &#x23CF;&#xFE0F; | &#x23CF;&#xFE0F; | 
+| <small>23F8 FE0F</small><br>pause button<br>&#x23F8;&#xFE0F; | &#x23F8;&#xFE0F; | &#x23F8;&#xFE0F; | &#x23F8;&#xFE0F; | 
+| <small>23F9 FE0F</small><br>stop button<br>&#x23F9;&#xFE0F; | &#x23F9;&#xFE0F; | &#x23F9;&#xFE0F; | &#x23F9;&#xFE0F; | 
+| <small>23FA FE0F</small><br>record button<br>&#x23FA;&#xFE0F; | &#x23FA;&#xFE0F; | &#x23FA;&#xFE0F; | &#x23FA;&#xFE0F; | 
+| <small>23CF FE0F</small><br>eject button<br>&#x23CF;&#xFE0F; | &#x23CF;&#xFE0F; | &#x23CF;&#xFE0F; | &#x23CF;&#xFE0F; | 
 | <small>1F3A6</small><br>cinema<br>&#x1F3A6; | &#x1F3A6; | &#x1F3A6; | &#x1F3A6; | 
 | <small>1F505</small><br>dim button<br>&#x1F505; | &#x1F505; | &#x1F505; | &#x1F505; | 
 | <small>1F506</small><br>bright button<br>&#x1F506; | &#x1F506; | &#x1F506; | &#x1F506; | 
@@ -3407,15 +3409,15 @@ For more information about the images and fonts used, please refer to [the READM
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>2640 FE0F</small><br>female sign<br>&#x2640;&#xFE0F; |  | &#x2640;&#xFE0F; | &#x2640;&#xFE0F; | 
-| <small>2642 FE0F</small><br>male sign<br>&#x2642;&#xFE0F; |  | &#x2642;&#xFE0F; | &#x2642;&#xFE0F; | 
+| <small>2640 FE0F</small><br>female sign<br>&#x2640;&#xFE0F; | &#x2640;&#xFE0F; | &#x2640;&#xFE0F; | &#x2640;&#xFE0F; | 
+| <small>2642 FE0F</small><br>male sign<br>&#x2642;&#xFE0F; | &#x2642;&#xFE0F; | &#x2642;&#xFE0F; | &#x2642;&#xFE0F; | 
 | <small>26A7 FE0F</small><br>transgender symbol<br>&#x26A7;&#xFE0F; |  | &#x26A7;&#xFE0F; | &#x26A7;&#xFE0F; | 
 
 #### math
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>2716 FE0F</small><br>multiply<br>&#x2716;&#xFE0F; |  | &#x2716;&#xFE0F; | &#x2716;&#xFE0F; | 
+| <small>2716 FE0F</small><br>multiply<br>&#x2716;&#xFE0F; | &#x2716;&#xFE0F; | &#x2716;&#xFE0F; | &#x2716;&#xFE0F; | 
 | <small>2795</small><br>plus<br>&#x2795; | &#x2795; | &#x2795; | &#x2795; | 
 | <small>2796</small><br>minus<br>&#x2796; | &#x2796; | &#x2796; | &#x2796; | 
 | <small>2797</small><br>divide<br>&#x2797; | &#x2797; | &#x2797; | &#x2797; | 
@@ -3425,13 +3427,13 @@ For more information about the images and fonts used, please refer to [the READM
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>203C FE0F</small><br>double exclamation mark<br>&#x203C;&#xFE0F; |  | &#x203C;&#xFE0F; | &#x203C;&#xFE0F; | 
-| <small>2049 FE0F</small><br>exclamation question mark<br>&#x2049;&#xFE0F; |  | &#x2049;&#xFE0F; | &#x2049;&#xFE0F; | 
+| <small>203C FE0F</small><br>double exclamation mark<br>&#x203C;&#xFE0F; | &#x203C;&#xFE0F; | &#x203C;&#xFE0F; | &#x203C;&#xFE0F; | 
+| <small>2049 FE0F</small><br>exclamation question mark<br>&#x2049;&#xFE0F; | &#x2049;&#xFE0F; | &#x2049;&#xFE0F; | &#x2049;&#xFE0F; | 
 | <small>2753</small><br>question mark<br>&#x2753; | &#x2753; | &#x2753; | &#x2753; | 
 | <small>2754</small><br>white question mark<br>&#x2754; | &#x2754; | &#x2754; | &#x2754; | 
 | <small>2755</small><br>white exclamation mark<br>&#x2755; | &#x2755; | &#x2755; | &#x2755; | 
 | <small>2757</small><br>exclamation mark<br>&#x2757; | &#x2757; | &#x2757; | &#x2757; | 
-| <small>3030 FE0F</small><br>wavy dash<br>&#x3030;&#xFE0F; |  | &#x3030;&#xFE0F; | &#x3030;&#xFE0F; | 
+| <small>3030 FE0F</small><br>wavy dash<br>&#x3030;&#xFE0F; | &#x3030;&#xFE0F; | &#x3030;&#xFE0F; | &#x3030;&#xFE0F; | 
 
 #### currency
 
@@ -3444,44 +3446,44 @@ For more information about the images and fonts used, please refer to [the READM
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>2695 FE0F</small><br>medical symbol<br>&#x2695;&#xFE0F; |  | &#x2695;&#xFE0F; | &#x2695;&#xFE0F; | 
-| <small>267B FE0F</small><br>recycling symbol<br>&#x267B;&#xFE0F; |  | &#x267B;&#xFE0F; | &#x267B;&#xFE0F; | 
-| <small>269C FE0F</small><br>fleur-de-lis<br>&#x269C;&#xFE0F; |  | &#x269C;&#xFE0F; | &#x269C;&#xFE0F; | 
+| <small>2695 FE0F</small><br>medical symbol<br>&#x2695;&#xFE0F; | &#x2695;&#xFE0F; | &#x2695;&#xFE0F; | &#x2695;&#xFE0F; | 
+| <small>267B FE0F</small><br>recycling symbol<br>&#x267B;&#xFE0F; | &#x267B;&#xFE0F; | &#x267B;&#xFE0F; | &#x267B;&#xFE0F; | 
+| <small>269C FE0F</small><br>fleur-de-lis<br>&#x269C;&#xFE0F; | &#x269C;&#xFE0F; | &#x269C;&#xFE0F; | &#x269C;&#xFE0F; | 
 | <small>1F531</small><br>trident emblem<br>&#x1F531; | &#x1F531; | &#x1F531; | &#x1F531; | 
 | <small>1F4DB</small><br>name badge<br>&#x1F4DB; | &#x1F4DB; | &#x1F4DB; | &#x1F4DB; | 
 | <small>1F530</small><br>Japanese symbol for beginner<br>&#x1F530; | &#x1F530; | &#x1F530; | &#x1F530; | 
 | <small>2B55</small><br>hollow red circle<br>&#x2B55; | &#x2B55; | &#x2B55; | &#x2B55; | 
 | <small>2705</small><br>check mark button<br>&#x2705; | &#x2705; | &#x2705; | &#x2705; | 
-| <small>2611 FE0F</small><br>check box with check<br>&#x2611;&#xFE0F; |  | &#x2611;&#xFE0F; | &#x2611;&#xFE0F; | 
-| <small>2714 FE0F</small><br>check mark<br>&#x2714;&#xFE0F; |  | &#x2714;&#xFE0F; | &#x2714;&#xFE0F; | 
+| <small>2611 FE0F</small><br>check box with check<br>&#x2611;&#xFE0F; | &#x2611;&#xFE0F; | &#x2611;&#xFE0F; | &#x2611;&#xFE0F; | 
+| <small>2714 FE0F</small><br>check mark<br>&#x2714;&#xFE0F; | &#x2714;&#xFE0F; | &#x2714;&#xFE0F; | &#x2714;&#xFE0F; | 
 | <small>274C</small><br>cross mark<br>&#x274C; | &#x274C; | &#x274C; | &#x274C; | 
 | <small>274E</small><br>cross mark button<br>&#x274E; | &#x274E; | &#x274E; | &#x274E; | 
 | <small>27B0</small><br>curly loop<br>&#x27B0; | &#x27B0; | &#x27B0; | &#x27B0; | 
 | <small>27BF</small><br>double curly loop<br>&#x27BF; | &#x27BF; | &#x27BF; | &#x27BF; | 
-| <small>303D FE0F</small><br>part alternation mark<br>&#x303D;&#xFE0F; |  | &#x303D;&#xFE0F; | &#x303D;&#xFE0F; | 
-| <small>2733 FE0F</small><br>eight-spoked asterisk<br>&#x2733;&#xFE0F; |  | &#x2733;&#xFE0F; | &#x2733;&#xFE0F; | 
-| <small>2734 FE0F</small><br>eight-pointed star<br>&#x2734;&#xFE0F; |  | &#x2734;&#xFE0F; | &#x2734;&#xFE0F; | 
-| <small>2747 FE0F</small><br>sparkle<br>&#x2747;&#xFE0F; |  | &#x2747;&#xFE0F; | &#x2747;&#xFE0F; | 
-| <small>00A9 FE0F</small><br>copyright<br>&#x00A9;&#xFE0F; |  | &#x00A9;&#xFE0F; | &#x00A9;&#xFE0F; | 
-| <small>00AE FE0F</small><br>registered<br>&#x00AE;&#xFE0F; |  | &#x00AE;&#xFE0F; | &#x00AE;&#xFE0F; | 
-| <small>2122 FE0F</small><br>trade mark<br>&#x2122;&#xFE0F; |  | &#x2122;&#xFE0F; | &#x2122;&#xFE0F; | 
+| <small>303D FE0F</small><br>part alternation mark<br>&#x303D;&#xFE0F; | &#x303D;&#xFE0F; | &#x303D;&#xFE0F; | &#x303D;&#xFE0F; | 
+| <small>2733 FE0F</small><br>eight-spoked asterisk<br>&#x2733;&#xFE0F; | &#x2733;&#xFE0F; | &#x2733;&#xFE0F; | &#x2733;&#xFE0F; | 
+| <small>2734 FE0F</small><br>eight-pointed star<br>&#x2734;&#xFE0F; | &#x2734;&#xFE0F; | &#x2734;&#xFE0F; | &#x2734;&#xFE0F; | 
+| <small>2747 FE0F</small><br>sparkle<br>&#x2747;&#xFE0F; | &#x2747;&#xFE0F; | &#x2747;&#xFE0F; | &#x2747;&#xFE0F; | 
+| <small>00A9 FE0F</small><br>copyright<br>&#x00A9;&#xFE0F; | &#x00A9;&#xFE0F; | &#x00A9;&#xFE0F; | &#x00A9;&#xFE0F; | 
+| <small>00AE FE0F</small><br>registered<br>&#x00AE;&#xFE0F; | &#x00AE;&#xFE0F; | &#x00AE;&#xFE0F; | &#x00AE;&#xFE0F; | 
+| <small>2122 FE0F</small><br>trade mark<br>&#x2122;&#xFE0F; | &#x2122;&#xFE0F; | &#x2122;&#xFE0F; | &#x2122;&#xFE0F; | 
 
 #### keycap
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>0023 FE0F 20E3</small><br>keycap: #<br>&#x0023;&#xFE0F;&#x20E3; |  | &#x0023;&#xFE0F;&#x20E3; | &#x0023;&#xFE0F;&#x20E3; | 
-| <small>002A FE0F 20E3</small><br>keycap: *<br>&#x002A;&#xFE0F;&#x20E3; |  | &#x002A;&#xFE0F;&#x20E3; | &#x002A;&#xFE0F;&#x20E3; | 
-| <small>0030 FE0F 20E3</small><br>keycap: 0<br>&#x0030;&#xFE0F;&#x20E3; |  | &#x0030;&#xFE0F;&#x20E3; | &#x0030;&#xFE0F;&#x20E3; | 
-| <small>0031 FE0F 20E3</small><br>keycap: 1<br>&#x0031;&#xFE0F;&#x20E3; |  | &#x0031;&#xFE0F;&#x20E3; | &#x0031;&#xFE0F;&#x20E3; | 
-| <small>0032 FE0F 20E3</small><br>keycap: 2<br>&#x0032;&#xFE0F;&#x20E3; |  | &#x0032;&#xFE0F;&#x20E3; | &#x0032;&#xFE0F;&#x20E3; | 
-| <small>0033 FE0F 20E3</small><br>keycap: 3<br>&#x0033;&#xFE0F;&#x20E3; |  | &#x0033;&#xFE0F;&#x20E3; | &#x0033;&#xFE0F;&#x20E3; | 
-| <small>0034 FE0F 20E3</small><br>keycap: 4<br>&#x0034;&#xFE0F;&#x20E3; |  | &#x0034;&#xFE0F;&#x20E3; | &#x0034;&#xFE0F;&#x20E3; | 
-| <small>0035 FE0F 20E3</small><br>keycap: 5<br>&#x0035;&#xFE0F;&#x20E3; |  | &#x0035;&#xFE0F;&#x20E3; | &#x0035;&#xFE0F;&#x20E3; | 
-| <small>0036 FE0F 20E3</small><br>keycap: 6<br>&#x0036;&#xFE0F;&#x20E3; |  | &#x0036;&#xFE0F;&#x20E3; | &#x0036;&#xFE0F;&#x20E3; | 
-| <small>0037 FE0F 20E3</small><br>keycap: 7<br>&#x0037;&#xFE0F;&#x20E3; |  | &#x0037;&#xFE0F;&#x20E3; | &#x0037;&#xFE0F;&#x20E3; | 
-| <small>0038 FE0F 20E3</small><br>keycap: 8<br>&#x0038;&#xFE0F;&#x20E3; |  | &#x0038;&#xFE0F;&#x20E3; | &#x0038;&#xFE0F;&#x20E3; | 
-| <small>0039 FE0F 20E3</small><br>keycap: 9<br>&#x0039;&#xFE0F;&#x20E3; |  | &#x0039;&#xFE0F;&#x20E3; | &#x0039;&#xFE0F;&#x20E3; | 
+| <small>0023 FE0F 20E3</small><br>keycap: #<br>&#x0023;&#xFE0F;&#x20E3; | &#x0023;&#xFE0F;&#x20E3; | &#x0023;&#xFE0F;&#x20E3; | &#x0023;&#xFE0F;&#x20E3; | 
+| <small>002A FE0F 20E3</small><br>keycap: *<br>&#x002A;&#xFE0F;&#x20E3; | &#x002A;&#xFE0F;&#x20E3; | &#x002A;&#xFE0F;&#x20E3; | &#x002A;&#xFE0F;&#x20E3; | 
+| <small>0030 FE0F 20E3</small><br>keycap: 0<br>&#x0030;&#xFE0F;&#x20E3; | &#x0030;&#xFE0F;&#x20E3; | &#x0030;&#xFE0F;&#x20E3; | &#x0030;&#xFE0F;&#x20E3; | 
+| <small>0031 FE0F 20E3</small><br>keycap: 1<br>&#x0031;&#xFE0F;&#x20E3; | &#x0031;&#xFE0F;&#x20E3; | &#x0031;&#xFE0F;&#x20E3; | &#x0031;&#xFE0F;&#x20E3; | 
+| <small>0032 FE0F 20E3</small><br>keycap: 2<br>&#x0032;&#xFE0F;&#x20E3; | &#x0032;&#xFE0F;&#x20E3; | &#x0032;&#xFE0F;&#x20E3; | &#x0032;&#xFE0F;&#x20E3; | 
+| <small>0033 FE0F 20E3</small><br>keycap: 3<br>&#x0033;&#xFE0F;&#x20E3; | &#x0033;&#xFE0F;&#x20E3; | &#x0033;&#xFE0F;&#x20E3; | &#x0033;&#xFE0F;&#x20E3; | 
+| <small>0034 FE0F 20E3</small><br>keycap: 4<br>&#x0034;&#xFE0F;&#x20E3; | &#x0034;&#xFE0F;&#x20E3; | &#x0034;&#xFE0F;&#x20E3; | &#x0034;&#xFE0F;&#x20E3; | 
+| <small>0035 FE0F 20E3</small><br>keycap: 5<br>&#x0035;&#xFE0F;&#x20E3; | &#x0035;&#xFE0F;&#x20E3; | &#x0035;&#xFE0F;&#x20E3; | &#x0035;&#xFE0F;&#x20E3; | 
+| <small>0036 FE0F 20E3</small><br>keycap: 6<br>&#x0036;&#xFE0F;&#x20E3; | &#x0036;&#xFE0F;&#x20E3; | &#x0036;&#xFE0F;&#x20E3; | &#x0036;&#xFE0F;&#x20E3; | 
+| <small>0037 FE0F 20E3</small><br>keycap: 7<br>&#x0037;&#xFE0F;&#x20E3; | &#x0037;&#xFE0F;&#x20E3; | &#x0037;&#xFE0F;&#x20E3; | &#x0037;&#xFE0F;&#x20E3; | 
+| <small>0038 FE0F 20E3</small><br>keycap: 8<br>&#x0038;&#xFE0F;&#x20E3; | &#x0038;&#xFE0F;&#x20E3; | &#x0038;&#xFE0F;&#x20E3; | &#x0038;&#xFE0F;&#x20E3; | 
+| <small>0039 FE0F 20E3</small><br>keycap: 9<br>&#x0039;&#xFE0F;&#x20E3; | &#x0039;&#xFE0F;&#x20E3; | &#x0039;&#xFE0F;&#x20E3; | &#x0039;&#xFE0F;&#x20E3; | 
 | <small>1F51F</small><br>keycap: 10<br>&#x1F51F; | &#x1F51F; | &#x1F51F; | &#x1F51F; | 
 
 #### alphanum
@@ -3493,26 +3495,26 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F522</small><br>input numbers<br>&#x1F522; | &#x1F522; | &#x1F522; | &#x1F522; | 
 | <small>1F523</small><br>input symbols<br>&#x1F523; | &#x1F523; | &#x1F523; | &#x1F523; | 
 | <small>1F524</small><br>input latin letters<br>&#x1F524; | &#x1F524; | &#x1F524; | &#x1F524; | 
-| <small>1F170 FE0F</small><br>A button (blood type)<br>&#x1F170;&#xFE0F; |  | &#x1F170;&#xFE0F; | &#x1F170;&#xFE0F; | 
+| <small>1F170 FE0F</small><br>A button (blood type)<br>&#x1F170;&#xFE0F; | &#x1F170;&#xFE0F; | &#x1F170;&#xFE0F; | &#x1F170;&#xFE0F; | 
 | <small>1F18E</small><br>AB button (blood type)<br>&#x1F18E; | &#x1F18E; | &#x1F18E; | &#x1F18E; | 
-| <small>1F171 FE0F</small><br>B button (blood type)<br>&#x1F171;&#xFE0F; |  | &#x1F171;&#xFE0F; | &#x1F171;&#xFE0F; | 
+| <small>1F171 FE0F</small><br>B button (blood type)<br>&#x1F171;&#xFE0F; | &#x1F171;&#xFE0F; | &#x1F171;&#xFE0F; | &#x1F171;&#xFE0F; | 
 | <small>1F191</small><br>CL button<br>&#x1F191; | &#x1F191; | &#x1F191; | &#x1F191; | 
 | <small>1F192</small><br>COOL button<br>&#x1F192; | &#x1F192; | &#x1F192; | &#x1F192; | 
 | <small>1F193</small><br>FREE button<br>&#x1F193; | &#x1F193; | &#x1F193; | &#x1F193; | 
-| <small>2139 FE0F</small><br>information<br>&#x2139;&#xFE0F; |  | &#x2139;&#xFE0F; | &#x2139;&#xFE0F; | 
+| <small>2139 FE0F</small><br>information<br>&#x2139;&#xFE0F; | &#x2139;&#xFE0F; | &#x2139;&#xFE0F; | &#x2139;&#xFE0F; | 
 | <small>1F194</small><br>ID button<br>&#x1F194; | &#x1F194; | &#x1F194; | &#x1F194; | 
-| <small>24C2 FE0F</small><br>circled M<br>&#x24C2;&#xFE0F; |  | &#x24C2;&#xFE0F; | &#x24C2;&#xFE0F; | 
+| <small>24C2 FE0F</small><br>circled M<br>&#x24C2;&#xFE0F; | &#x24C2;&#xFE0F; | &#x24C2;&#xFE0F; | &#x24C2;&#xFE0F; | 
 | <small>1F195</small><br>NEW button<br>&#x1F195; | &#x1F195; | &#x1F195; | &#x1F195; | 
 | <small>1F196</small><br>NG button<br>&#x1F196; | &#x1F196; | &#x1F196; | &#x1F196; | 
-| <small>1F17E FE0F</small><br>O button (blood type)<br>&#x1F17E;&#xFE0F; |  | &#x1F17E;&#xFE0F; | &#x1F17E;&#xFE0F; | 
+| <small>1F17E FE0F</small><br>O button (blood type)<br>&#x1F17E;&#xFE0F; | &#x1F17E;&#xFE0F; | &#x1F17E;&#xFE0F; | &#x1F17E;&#xFE0F; | 
 | <small>1F197</small><br>OK button<br>&#x1F197; | &#x1F197; | &#x1F197; | &#x1F197; | 
-| <small>1F17F FE0F</small><br>P button<br>&#x1F17F;&#xFE0F; |  | &#x1F17F;&#xFE0F; | &#x1F17F;&#xFE0F; | 
+| <small>1F17F FE0F</small><br>P button<br>&#x1F17F;&#xFE0F; | &#x1F17F;&#xFE0F; | &#x1F17F;&#xFE0F; | &#x1F17F;&#xFE0F; | 
 | <small>1F198</small><br>SOS button<br>&#x1F198; | &#x1F198; | &#x1F198; | &#x1F198; | 
 | <small>1F199</small><br>UP! button<br>&#x1F199; | &#x1F199; | &#x1F199; | &#x1F199; | 
 | <small>1F19A</small><br>VS button<br>&#x1F19A; | &#x1F19A; | &#x1F19A; | &#x1F19A; | 
 | <small>1F201</small><br>Japanese “here” button<br>&#x1F201; | &#x1F201; | &#x1F201; | &#x1F201; | 
-| <small>1F202 FE0F</small><br>Japanese “service charge” button<br>&#x1F202;&#xFE0F; |  | &#x1F202;&#xFE0F; | &#x1F202;&#xFE0F; | 
-| <small>1F237 FE0F</small><br>Japanese “monthly amount” button<br>&#x1F237;&#xFE0F; |  | &#x1F237;&#xFE0F; | &#x1F237;&#xFE0F; | 
+| <small>1F202 FE0F</small><br>Japanese “service charge” button<br>&#x1F202;&#xFE0F; | &#x1F202;&#xFE0F; | &#x1F202;&#xFE0F; | &#x1F202;&#xFE0F; | 
+| <small>1F237 FE0F</small><br>Japanese “monthly amount” button<br>&#x1F237;&#xFE0F; | &#x1F237;&#xFE0F; | &#x1F237;&#xFE0F; | &#x1F237;&#xFE0F; | 
 | <small>1F236</small><br>Japanese “not free of charge” button<br>&#x1F236; | &#x1F236; | &#x1F236; | &#x1F236; | 
 | <small>1F22F</small><br>Japanese “reserved” button<br>&#x1F22F; | &#x1F22F; | &#x1F22F; | &#x1F22F; | 
 | <small>1F250</small><br>Japanese “bargain” button<br>&#x1F250; | &#x1F250; | &#x1F250; | &#x1F250; | 
@@ -3523,8 +3525,8 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F238</small><br>Japanese “application” button<br>&#x1F238; | &#x1F238; | &#x1F238; | &#x1F238; | 
 | <small>1F234</small><br>Japanese “passing grade” button<br>&#x1F234; | &#x1F234; | &#x1F234; | &#x1F234; | 
 | <small>1F233</small><br>Japanese “vacancy” button<br>&#x1F233; | &#x1F233; | &#x1F233; | &#x1F233; | 
-| <small>3297 FE0F</small><br>Japanese “congratulations” button<br>&#x3297;&#xFE0F; |  | &#x3297;&#xFE0F; | &#x3297;&#xFE0F; | 
-| <small>3299 FE0F</small><br>Japanese “secret” button<br>&#x3299;&#xFE0F; |  | &#x3299;&#xFE0F; | &#x3299;&#xFE0F; | 
+| <small>3297 FE0F</small><br>Japanese “congratulations” button<br>&#x3297;&#xFE0F; | &#x3297;&#xFE0F; | &#x3297;&#xFE0F; | &#x3297;&#xFE0F; | 
+| <small>3299 FE0F</small><br>Japanese “secret” button<br>&#x3299;&#xFE0F; | &#x3299;&#xFE0F; | &#x3299;&#xFE0F; | &#x3299;&#xFE0F; | 
 | <small>1F23A</small><br>Japanese “open for business” button<br>&#x1F23A; | &#x1F23A; | &#x1F23A; | &#x1F23A; | 
 | <small>1F235</small><br>Japanese “no vacancy” button<br>&#x1F235; | &#x1F235; | &#x1F235; | &#x1F235; | 
 
@@ -3550,12 +3552,12 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F7EB</small><br>brown square<br>&#x1F7EB; | &#x1F7EB; | &#x1F7EB; | &#x1F7EB; | 
 | <small>2B1B</small><br>black large square<br>&#x2B1B; | &#x2B1B; | &#x2B1B; | &#x2B1B; | 
 | <small>2B1C</small><br>white large square<br>&#x2B1C; | &#x2B1C; | &#x2B1C; | &#x2B1C; | 
-| <small>25FC FE0F</small><br>black medium square<br>&#x25FC;&#xFE0F; |  | &#x25FC;&#xFE0F; | &#x25FC;&#xFE0F; | 
-| <small>25FB FE0F</small><br>white medium square<br>&#x25FB;&#xFE0F; |  | &#x25FB;&#xFE0F; | &#x25FB;&#xFE0F; | 
+| <small>25FC FE0F</small><br>black medium square<br>&#x25FC;&#xFE0F; | &#x25FC;&#xFE0F; | &#x25FC;&#xFE0F; | &#x25FC;&#xFE0F; | 
+| <small>25FB FE0F</small><br>white medium square<br>&#x25FB;&#xFE0F; | &#x25FB;&#xFE0F; | &#x25FB;&#xFE0F; | &#x25FB;&#xFE0F; | 
 | <small>25FE</small><br>black medium-small square<br>&#x25FE; | &#x25FE; | &#x25FE; | &#x25FE; | 
 | <small>25FD</small><br>white medium-small square<br>&#x25FD; | &#x25FD; | &#x25FD; | &#x25FD; | 
-| <small>25AA FE0F</small><br>black small square<br>&#x25AA;&#xFE0F; |  | &#x25AA;&#xFE0F; | &#x25AA;&#xFE0F; | 
-| <small>25AB FE0F</small><br>white small square<br>&#x25AB;&#xFE0F; |  | &#x25AB;&#xFE0F; | &#x25AB;&#xFE0F; | 
+| <small>25AA FE0F</small><br>black small square<br>&#x25AA;&#xFE0F; | &#x25AA;&#xFE0F; | &#x25AA;&#xFE0F; | &#x25AA;&#xFE0F; | 
+| <small>25AB FE0F</small><br>white small square<br>&#x25AB;&#xFE0F; | &#x25AB;&#xFE0F; | &#x25AB;&#xFE0F; | &#x25AB;&#xFE0F; | 
 | <small>1F536</small><br>large orange diamond<br>&#x1F536; | &#x1F536; | &#x1F536; | &#x1F536; | 
 | <small>1F537</small><br>large blue diamond<br>&#x1F537; | &#x1F537; | &#x1F537; | &#x1F537; | 
 | <small>1F538</small><br>small orange diamond<br>&#x1F538; | &#x1F538; | &#x1F538; | &#x1F538; | 
@@ -3578,7 +3580,7 @@ For more information about the images and fonts used, please refer to [the READM
 | <small>1F6A9</small><br>triangular flag<br>&#x1F6A9; | &#x1F6A9; | &#x1F6A9; | &#x1F6A9; | 
 | <small>1F38C</small><br>crossed flags<br>&#x1F38C; | &#x1F38C; | &#x1F38C; | &#x1F38C; | 
 | <small>1F3F4</small><br>black flag<br>&#x1F3F4; | &#x1F3F4; | &#x1F3F4; | &#x1F3F4; | 
-| <small>1F3F3 FE0F</small><br>white flag<br>&#x1F3F3;&#xFE0F; |  | &#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | 
+| <small>1F3F3 FE0F</small><br>white flag<br>&#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | 
 | <small>1F3F3 FE0F 200D 1F308</small><br>rainbow flag<br>&#x1F3F3;&#xFE0F;&#x200D;&#x1F308; |  | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | 
 | <small>1F3F3 FE0F 200D 26A7 FE0F</small><br>transgender flag<br>&#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F; |  | &#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F; | &#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F; | 
 | <small>1F3F4 200D 2620 FE0F</small><br>pirate flag<br>&#x1F3F4;&#x200D;&#x2620;&#xFE0F; |  | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | 
