@@ -37,6 +37,12 @@ The script should then start running. It will take a while to complete. If succe
 
 ## Information on the emoji sets:
 
+| Emoji Set | Filename | Emoji Version | License | Source Repo |
+|:-:|:-:|:-:|:-:|:-:|
+| EmojiTwo  | EmojiTwoCOLRv0.ttf | 4.0 | [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode) | [EmojiTwo](https://github.com/EmojiTwo/emojitwo) |
+| OpenMoji  | OpenMojiCOLRv0.ttf | 14.0 | [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode) | [OpenMoji](https://github.com/hfg-gmuend/openmoji) |
+| Twemoji  | TwemojiCOLRv0.ttf | 14.0 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#) | [Twitter Emoji](https://github.com/twitter/twemoji) |
+
 Further information can be found in the README within each folder.
 
 
